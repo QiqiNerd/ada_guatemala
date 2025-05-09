@@ -1,0 +1,3851 @@
+﻿depto,mupio,sector,c02act,c02a01
+1,5,50,carreter,si
+1,5,50,carreter,no
+1,5,50,camino d,no
+1,5,50,veredas,no
+1,5,50,"mar, lag",no
+1,5,50,tren (vi,no
+1,5,50,avión (v,no
+1,5,50,"otro, cu",no
+1,6,8,carreter,no
+1,6,8,carreter,no
+1,6,8,camino d,no
+1,6,8,veredas,si
+1,6,8,"mar, lag",no
+1,6,8,tren (vi,no
+1,6,8,avión (v,no
+1,6,8,"otro, cu",no
+1,6,18,carreter,si
+1,6,18,carreter,si
+1,6,18,camino d,no
+1,6,18,veredas,no
+1,6,18,"mar, lag",no
+1,6,18,tren (vi,no
+1,6,18,avión (v,no
+1,6,18,"otro, cu",no
+1,6,78,carreter,si
+1,6,78,carreter,si
+1,6,78,camino d,no
+1,6,78,veredas,no
+1,6,78,"mar, lag",no
+1,6,78,tren (vi,no
+1,6,78,avión (v,no
+1,6,78,"otro, cu",no
+1,7,17,carreter,si
+1,7,17,carreter,no
+1,7,17,camino d,no
+1,7,17,veredas,no
+1,7,17,"mar, lag",no
+1,7,17,tren (vi,no
+1,7,17,avión (v,no
+1,7,17,"otro, cu",no
+1,7,49,carreter,si
+1,7,49,carreter,no
+1,7,49,camino d,no
+1,7,49,veredas,no
+1,7,49,"mar, lag",no
+1,7,49,tren (vi,no
+1,7,49,avión (v,no
+1,7,49,"otro, cu",no
+1,7,139,carreter,si
+1,7,139,carreter,no
+1,7,139,camino d,no
+1,7,139,veredas,no
+1,7,139,"mar, lag",no
+1,7,139,tren (vi,no
+1,7,139,avión (v,no
+1,7,139,"otro, cu",no
+1,7,141,carreter,no
+1,7,141,carreter,si
+1,7,141,camino d,no
+1,7,141,veredas,no
+1,7,141,"mar, lag",no
+1,7,141,tren (vi,no
+1,7,141,avión (v,no
+1,7,141,"otro, cu",no
+1,8,1,carreter,si
+1,8,1,carreter,no
+1,8,1,camino d,no
+1,8,1,veredas,no
+1,8,1,"mar, lag",no
+1,8,1,tren (vi,no
+1,8,1,avión (v,no
+1,8,1,"otro, cu",no
+1,12,24,carreter,si
+1,12,24,carreter,no
+1,12,24,camino d,no
+1,12,24,veredas,no
+1,12,24,"mar, lag",no
+1,12,24,tren (vi,no
+1,12,24,avión (v,no
+1,12,24,"otro, cu",no
+1,12,58,carreter,si
+1,12,58,carreter,si
+1,12,58,camino d,no
+1,12,58,veredas,no
+1,12,58,"mar, lag",no
+1,12,58,tren (vi,no
+1,12,58,avión (v,no
+1,12,58,"otro, cu",no
+1,16,10,carreter,si
+1,16,10,carreter,si
+1,16,10,camino d,si
+1,16,10,veredas,no
+1,16,10,"mar, lag",no
+1,16,10,tren (vi,no
+1,16,10,avión (v,no
+1,16,10,"otro, cu",no
+1,18,56,carreter,si
+1,18,56,carreter,no
+1,18,56,camino d,no
+1,18,56,veredas,no
+1,18,56,"mar, lag",no
+1,18,56,tren (vi,no
+1,18,56,avión (v,no
+1,18,56,"otro, cu",no
+1,18,71,carreter,si
+1,18,71,carreter,no
+1,18,71,camino d,si
+1,18,71,veredas,si
+1,18,71,"mar, lag",no
+1,18,71,tren (vi,no
+1,18,71,avión (v,no
+1,18,71,"otro, cu",no
+1,18,76,carreter,si
+1,18,76,carreter,si
+1,18,76,camino d,no
+1,18,76,veredas,si
+1,18,76,"mar, lag",no
+1,18,76,tren (vi,no
+1,18,76,avión (v,no
+1,18,76,"otro, cu",no
+1,18,106,carreter,si
+1,18,106,carreter,no
+1,18,106,camino d,si
+1,18,106,veredas,si
+1,18,106,"mar, lag",no
+1,18,106,tren (vi,no
+1,18,106,avión (v,no
+1,18,106,"otro, cu",no
+1,18,136,carreter,no
+1,18,136,carreter,si
+1,18,136,camino d,no
+1,18,136,veredas,no
+1,18,136,"mar, lag",no
+1,18,136,tren (vi,no
+1,18,136,avión (v,no
+1,18,136,"otro, cu",no
+1,18,137,carreter,si
+1,18,137,carreter,no
+1,18,137,camino d,no
+1,18,137,veredas,no
+1,18,137,"mar, lag",no
+1,18,137,tren (vi,no
+1,18,137,avión (v,no
+1,18,137,"otro, cu",no
+1,19,13,carreter,si
+1,19,13,carreter,no
+1,19,13,camino d,no
+1,19,13,veredas,no
+1,19,13,"mar, lag",no
+1,19,13,tren (vi,no
+1,19,13,avión (v,no
+1,19,13,"otro, cu",no
+1,26,1,carreter,no
+1,26,1,carreter,si
+1,26,1,camino d,no
+1,26,1,veredas,si
+1,26,1,"mar, lag",no
+1,26,1,tren (vi,no
+1,26,1,avión (v,no
+1,26,1,"otro, cu",no
+1,26,19,carreter,si
+1,26,19,carreter,si
+1,26,19,camino d,si
+1,26,19,veredas,si
+1,26,19,"mar, lag",no
+1,26,19,tren (vi,no
+1,26,19,avión (v,no
+1,26,19,"otro, cu",no
+1,27,45,carreter,si
+1,27,45,carreter,no
+1,27,45,camino d,no
+1,27,45,veredas,si
+1,27,45,"mar, lag",no
+1,27,45,tren (vi,no
+1,27,45,avión (v,no
+1,27,45,"otro, cu",no
+1,28,7,carreter,si
+1,28,7,carreter,no
+1,28,7,camino d,si
+1,28,7,veredas,no
+1,28,7,"mar, lag",no
+1,28,7,tren (vi,no
+1,28,7,avión (v,no
+1,28,7,"otro, cu",no
+1,29,60,carreter,si
+1,29,60,carreter,si
+1,29,60,camino d,si
+1,29,60,veredas,si
+1,29,60,"mar, lag",no
+1,29,60,tren (vi,no
+1,29,60,avión (v,no
+1,29,60,"otro, cu",no
+1,29,68,carreter,si
+1,29,68,carreter,no
+1,29,68,camino d,no
+1,29,68,veredas,no
+1,29,68,"mar, lag",no
+1,29,68,tren (vi,no
+1,29,68,avión (v,no
+1,29,68,"otro, cu",no
+1,29,72,carreter,si
+1,29,72,carreter,si
+1,29,72,camino d,no
+1,29,72,veredas,no
+1,29,72,"mar, lag",no
+1,29,72,tren (vi,no
+1,29,72,avión (v,no
+1,29,72,"otro, cu",no
+1,29,82,carreter,no
+1,29,82,carreter,si
+1,29,82,camino d,no
+1,29,82,veredas,no
+1,29,82,"mar, lag",no
+1,29,82,tren (vi,no
+1,29,82,avión (v,no
+1,29,82,"otro, cu",no
+1,29,122,carreter,si
+1,29,122,carreter,si
+1,29,122,camino d,no
+1,29,122,veredas,no
+1,29,122,"mar, lag",no
+1,29,122,tren (vi,no
+1,29,122,avión (v,no
+1,29,122,"otro, cu",no
+1,29,159,carreter,si
+1,29,159,carreter,si
+1,29,159,camino d,no
+1,29,159,veredas,no
+1,29,159,"mar, lag",no
+1,29,159,tren (vi,no
+1,29,159,avión (v,no
+1,29,159,"otro, cu",no
+1,29,356,carreter,si
+1,29,356,carreter,no
+1,29,356,camino d,no
+1,29,356,veredas,si
+1,29,356,"mar, lag",no
+1,29,356,tren (vi,no
+1,29,356,avión (v,no
+1,29,356,"otro, cu",no
+1,29,371,carreter,si
+1,29,371,carreter,no
+1,29,371,camino d,no
+1,29,371,veredas,no
+1,29,371,"mar, lag",no
+1,29,371,tren (vi,no
+1,29,371,avión (v,no
+1,29,371,"otro, cu",no
+1,29,380,carreter,si
+1,29,380,carreter,no
+1,29,380,camino d,no
+1,29,380,veredas,no
+1,29,380,"mar, lag",no
+1,29,380,tren (vi,no
+1,29,380,avión (v,no
+1,29,380,"otro, cu",no
+1,31,21,carreter,no
+1,31,21,carreter,si
+1,31,21,camino d,no
+1,31,21,veredas,si
+1,31,21,"mar, lag",no
+1,31,21,tren (vi,no
+1,31,21,avión (v,no
+1,31,21,"otro, cu",no
+1,31,58,carreter,no
+1,31,58,carreter,si
+1,31,58,camino d,no
+1,31,58,veredas,si
+1,31,58,"mar, lag",no
+1,31,58,tren (vi,no
+1,31,58,avión (v,no
+1,31,58,"otro, cu",no
+1,31,100,carreter,no
+1,31,100,carreter,si
+1,31,100,camino d,no
+1,31,100,veredas,no
+1,31,100,"mar, lag",no
+1,31,100,tren (vi,no
+1,31,100,avión (v,no
+1,31,100,"otro, cu",no
+1,31,107,carreter,si
+1,31,107,carreter,si
+1,31,107,camino d,no
+1,31,107,veredas,no
+1,31,107,"mar, lag",no
+1,31,107,tren (vi,no
+1,31,107,avión (v,no
+1,31,107,"otro, cu",no
+1,31,121,carreter,no
+1,31,121,carreter,si
+1,31,121,camino d,si
+1,31,121,veredas,si
+1,31,121,"mar, lag",no
+1,31,121,tren (vi,no
+1,31,121,avión (v,no
+1,31,121,"otro, cu",no
+1,31,141,carreter,si
+1,31,141,carreter,si
+1,31,141,camino d,no
+1,31,141,veredas,no
+1,31,141,"mar, lag",no
+1,31,141,tren (vi,no
+1,31,141,avión (v,no
+1,31,141,"otro, cu",no
+1,31,143,carreter,si
+1,31,143,carreter,si
+1,31,143,camino d,no
+1,31,143,veredas,no
+1,31,143,"mar, lag",no
+1,31,143,tren (vi,no
+1,31,143,avión (v,no
+1,31,143,"otro, cu",no
+1,33,1,carreter,si
+1,33,1,carreter,si
+1,33,1,camino d,si
+1,33,1,veredas,si
+1,33,1,"mar, lag",no
+1,33,1,tren (vi,no
+1,33,1,avión (v,no
+1,33,1,"otro, cu",no
+1,33,12,carreter,no
+1,33,12,carreter,si
+1,33,12,camino d,si
+1,33,12,veredas,si
+1,33,12,"mar, lag",no
+1,33,12,tren (vi,no
+1,33,12,avión (v,no
+1,33,12,"otro, cu",no
+1,36,67,carreter,no
+1,36,67,carreter,si
+1,36,67,camino d,no
+1,36,67,veredas,no
+1,36,67,"mar, lag",no
+1,36,67,tren (vi,no
+1,36,67,avión (v,no
+1,36,67,"otro, cu",no
+1,36,107,carreter,si
+1,36,107,carreter,si
+1,36,107,camino d,no
+1,36,107,veredas,no
+1,36,107,"mar, lag",no
+1,36,107,tren (vi,no
+1,36,107,avión (v,no
+1,36,107,"otro, cu",no
+1,36,235,carreter,no
+1,36,235,carreter,si
+1,36,235,camino d,no
+1,36,235,veredas,no
+1,36,235,"mar, lag",no
+1,36,235,tren (vi,no
+1,36,235,avión (v,no
+1,36,235,"otro, cu",no
+1,37,19,carreter,no
+1,37,19,carreter,si
+1,37,19,camino d,no
+1,37,19,veredas,no
+1,37,19,"mar, lag",no
+1,37,19,tren (vi,no
+1,37,19,avión (v,no
+1,37,19,"otro, cu",no
+2,5,2,carreter,si
+2,5,2,carreter,no
+2,5,2,camino d,no
+2,5,2,veredas,si
+2,5,2,"mar, lag",no
+2,5,2,tren (vi,si
+2,5,2,avión (v,no
+2,5,2,"otro, cu",no
+2,5,7,carreter,no
+2,5,7,carreter,si
+2,5,7,camino d,no
+2,5,7,veredas,si
+2,5,7,"mar, lag",no
+2,5,7,tren (vi,si
+2,5,7,avión (v,no
+2,5,7,"otro, cu",no
+2,5,15,carreter,no
+2,5,15,carreter,si
+2,5,15,camino d,si
+2,5,15,veredas,si
+2,5,15,"mar, lag",no
+2,5,15,tren (vi,no
+2,5,15,avión (v,no
+2,5,15,"otro, cu",no
+2,7,4,carreter,si
+2,7,4,carreter,no
+2,7,4,camino d,si
+2,7,4,veredas,si
+2,7,4,"mar, lag",no
+2,7,4,tren (vi,si
+2,7,4,avión (v,no
+2,7,4,"otro, cu",no
+2,8,10,carreter,no
+2,8,10,carreter,si
+2,8,10,camino d,si
+2,8,10,veredas,si
+2,8,10,"mar, lag",no
+2,8,10,tren (vi,no
+2,8,10,avión (v,no
+2,8,10,"otro, cu",no
+2,8,14,carreter,no
+2,8,14,carreter,no
+2,8,14,camino d,si
+2,8,14,veredas,no
+2,8,14,"mar, lag",no
+2,8,14,tren (vi,no
+2,8,14,avión (v,no
+2,8,14,"otro, cu",no
+3,1,38,carreter,si
+3,1,38,carreter,si
+3,1,38,camino d,no
+3,1,38,veredas,si
+3,1,38,"mar, lag",no
+3,1,38,tren (vi,no
+3,1,38,avión (v,no
+3,1,38,"otro, cu",no
+3,2,13,carreter,si
+3,2,13,carreter,no
+3,2,13,camino d,no
+3,2,13,veredas,no
+3,2,13,"mar, lag",no
+3,2,13,tren (vi,no
+3,2,13,avión (v,no
+3,2,13,"otro, cu",no
+3,4,10,carreter,no
+3,4,10,carreter,no
+3,4,10,camino d,si
+3,4,10,veredas,no
+3,4,10,"mar, lag",no
+3,4,10,tren (vi,no
+3,4,10,avión (v,no
+3,4,10,"otro, cu",no
+3,6,8,carreter,si
+3,6,8,carreter,si
+3,6,8,camino d,si
+3,6,8,veredas,si
+3,6,8,"mar, lag",no
+3,6,8,tren (vi,no
+3,6,8,avión (v,no
+3,6,8,"otro, cu",no
+3,7,2,carreter,si
+3,7,2,carreter,no
+3,7,2,camino d,no
+3,7,2,veredas,no
+3,7,2,"mar, lag",no
+3,7,2,tren (vi,no
+3,7,2,avión (v,no
+3,7,2,"otro, cu",no
+3,8,6,carreter,si
+3,8,6,carreter,si
+3,8,6,camino d,si
+3,8,6,veredas,no
+3,8,6,"mar, lag",no
+3,8,6,tren (vi,no
+3,8,6,avión (v,no
+3,8,6,"otro, cu",no
+3,8,10,carreter,no
+3,8,10,carreter,si
+3,8,10,camino d,si
+3,8,10,veredas,no
+3,8,10,"mar, lag",no
+3,8,10,tren (vi,no
+3,8,10,avión (v,no
+3,8,10,"otro, cu",no
+3,9,6,carreter,si
+3,9,6,carreter,si
+3,9,6,camino d,si
+3,9,6,veredas,no
+3,9,6,"mar, lag",no
+3,9,6,tren (vi,no
+3,9,6,avión (v,no
+3,9,6,"otro, cu",no
+3,15,3,carreter,si
+3,15,3,carreter,si
+3,15,3,camino d,no
+3,15,3,veredas,si
+3,15,3,"mar, lag",no
+3,15,3,tren (vi,no
+3,15,3,avión (v,no
+3,15,3,"otro, cu",no
+4,1,1,carreter,si
+4,1,1,carreter,si
+4,1,1,camino d,si
+4,1,1,veredas,no
+4,1,1,"mar, lag",no
+4,1,1,tren (vi,no
+4,1,1,avión (v,no
+4,1,1,"otro, cu",no
+4,1,5,carreter,no
+4,1,5,carreter,si
+4,1,5,camino d,no
+4,1,5,veredas,si
+4,1,5,"mar, lag",no
+4,1,5,tren (vi,no
+4,1,5,avión (v,no
+4,1,5,"otro, cu",no
+4,1,6,carreter,si
+4,1,6,carreter,si
+4,1,6,camino d,no
+4,1,6,veredas,si
+4,1,6,"mar, lag",no
+4,1,6,tren (vi,no
+4,1,6,avión (v,no
+4,1,6,"otro, cu",no
+4,1,19,carreter,no
+4,1,19,carreter,si
+4,1,19,camino d,no
+4,1,19,veredas,si
+4,1,19,"mar, lag",no
+4,1,19,tren (vi,no
+4,1,19,avión (v,no
+4,1,19,"otro, cu",no
+4,1,20,carreter,no
+4,1,20,carreter,si
+4,1,20,camino d,no
+4,1,20,veredas,no
+4,1,20,"mar, lag",no
+4,1,20,tren (vi,no
+4,1,20,avión (v,no
+4,1,20,"otro, cu",no
+4,1,37,carreter,si
+4,1,37,carreter,si
+4,1,37,camino d,si
+4,1,37,veredas,si
+4,1,37,"mar, lag",no
+4,1,37,tren (vi,no
+4,1,37,avión (v,no
+4,1,37,"otro, cu",no
+4,1,39,carreter,si
+4,1,39,carreter,si
+4,1,39,camino d,no
+4,1,39,veredas,si
+4,1,39,"mar, lag",no
+4,1,39,tren (vi,no
+4,1,39,avión (v,no
+4,1,39,"otro, cu",no
+4,1,42,carreter,no
+4,1,42,carreter,si
+4,1,42,camino d,no
+4,1,42,veredas,si
+4,1,42,"mar, lag",no
+4,1,42,tren (vi,no
+4,1,42,avión (v,no
+4,1,42,"otro, cu",no
+4,1,44,carreter,si
+4,1,44,carreter,no
+4,1,44,camino d,si
+4,1,44,veredas,si
+4,1,44,"mar, lag",no
+4,1,44,tren (vi,no
+4,1,44,avión (v,no
+4,1,44,"otro, cu",no
+4,3,4,carreter,si
+4,3,4,carreter,si
+4,3,4,camino d,no
+4,3,4,veredas,no
+4,3,4,"mar, lag",no
+4,3,4,tren (vi,no
+4,3,4,avión (v,no
+4,3,4,"otro, cu",no
+4,3,8,carreter,si
+4,3,8,carreter,si
+4,3,8,camino d,no
+4,3,8,veredas,si
+4,3,8,"mar, lag",no
+4,3,8,tren (vi,no
+4,3,8,avión (v,no
+4,3,8,"otro, cu",no
+4,3,37,carreter,si
+4,3,37,carreter,si
+4,3,37,camino d,no
+4,3,37,veredas,si
+4,3,37,"mar, lag",no
+4,3,37,tren (vi,no
+4,3,37,avión (v,no
+4,3,37,"otro, cu",no
+4,4,13,carreter,si
+4,4,13,carreter,si
+4,4,13,camino d,no
+4,4,13,veredas,si
+4,4,13,"mar, lag",no
+4,4,13,tren (vi,no
+4,4,13,avión (v,no
+4,4,13,"otro, cu",no
+4,4,21,carreter,no
+4,4,21,carreter,si
+4,4,21,camino d,no
+4,4,21,veredas,si
+4,4,21,"mar, lag",no
+4,4,21,tren (vi,no
+4,4,21,avión (v,no
+4,4,21,"otro, cu",no
+4,4,22,carreter,no
+4,4,22,carreter,si
+4,4,22,camino d,no
+4,4,22,veredas,si
+4,4,22,"mar, lag",no
+4,4,22,tren (vi,no
+4,4,22,avión (v,no
+4,4,22,"otro, cu",no
+4,4,23,carreter,no
+4,4,23,carreter,si
+4,4,23,camino d,no
+4,4,23,veredas,si
+4,4,23,"mar, lag",no
+4,4,23,tren (vi,no
+4,4,23,avión (v,no
+4,4,23,"otro, cu",no
+4,4,26,carreter,no
+4,4,26,carreter,si
+4,4,26,camino d,no
+4,4,26,veredas,si
+4,4,26,"mar, lag",no
+4,4,26,tren (vi,no
+4,4,26,avión (v,no
+4,4,26,"otro, cu",no
+4,4,33,carreter,si
+4,4,33,carreter,si
+4,4,33,camino d,no
+4,4,33,veredas,si
+4,4,33,"mar, lag",no
+4,4,33,tren (vi,no
+4,4,33,avión (v,no
+4,4,33,"otro, cu",no
+4,5,7,carreter,no
+4,5,7,carreter,si
+4,5,7,camino d,no
+4,5,7,veredas,si
+4,5,7,"mar, lag",no
+4,5,7,tren (vi,no
+4,5,7,avión (v,no
+4,5,7,"otro, cu",si
+4,6,22,carreter,no
+4,6,22,carreter,si
+4,6,22,camino d,no
+4,6,22,veredas,si
+4,6,22,"mar, lag",no
+4,6,22,tren (vi,no
+4,6,22,avión (v,no
+4,6,22,"otro, cu",no
+4,6,26,carreter,si
+4,6,26,carreter,no
+4,6,26,camino d,no
+4,6,26,veredas,si
+4,6,26,"mar, lag",no
+4,6,26,tren (vi,no
+4,6,26,avión (v,no
+4,6,26,"otro, cu",no
+4,6,31,carreter,si
+4,6,31,carreter,si
+4,6,31,camino d,si
+4,6,31,veredas,si
+4,6,31,"mar, lag",no
+4,6,31,tren (vi,no
+4,6,31,avión (v,no
+4,6,31,"otro, cu",no
+4,6,37,carreter,no
+4,6,37,carreter,si
+4,6,37,camino d,no
+4,6,37,veredas,si
+4,6,37,"mar, lag",no
+4,6,37,tren (vi,no
+4,6,37,avión (v,no
+4,6,37,"otro, cu",no
+4,7,15,carreter,si
+4,7,15,carreter,si
+4,7,15,camino d,no
+4,7,15,veredas,no
+4,7,15,"mar, lag",no
+4,7,15,tren (vi,no
+4,7,15,avión (v,no
+4,7,15,"otro, cu",no
+4,7,19,carreter,no
+4,7,19,carreter,si
+4,7,19,camino d,si
+4,7,19,veredas,si
+4,7,19,"mar, lag",no
+4,7,19,tren (vi,no
+4,7,19,avión (v,no
+4,7,19,"otro, cu",no
+4,7,32,carreter,no
+4,7,32,carreter,si
+4,7,32,camino d,si
+4,7,32,veredas,si
+4,7,32,"mar, lag",no
+4,7,32,tren (vi,no
+4,7,32,avión (v,no
+4,7,32,"otro, cu",no
+4,8,14,carreter,no
+4,8,14,carreter,si
+4,8,14,camino d,si
+4,8,14,veredas,si
+4,8,14,"mar, lag",no
+4,8,14,tren (vi,no
+4,8,14,avión (v,no
+4,8,14,"otro, cu",no
+4,9,13,carreter,si
+4,9,13,carreter,si
+4,9,13,camino d,no
+4,9,13,veredas,si
+4,9,13,"mar, lag",no
+4,9,13,tren (vi,no
+4,9,13,avión (v,no
+4,9,13,"otro, cu",no
+4,9,14,carreter,no
+4,9,14,carreter,si
+4,9,14,camino d,no
+4,9,14,veredas,si
+4,9,14,"mar, lag",no
+4,9,14,tren (vi,no
+4,9,14,avión (v,no
+4,9,14,"otro, cu",no
+4,10,2,"otro, cu",no
+4,10,2,carreter,si
+4,10,2,carreter,si
+4,10,2,camino d,si
+4,10,2,veredas,no
+4,10,2,"mar, lag",no
+4,10,2,tren (vi,no
+4,10,2,avión (v,no
+4,10,2,"otro, cu",no
+4,11,8,carreter,no
+4,11,8,carreter,no
+4,11,8,camino d,no
+4,11,8,veredas,si
+4,11,8,"mar, lag",no
+4,11,8,tren (vi,no
+4,11,8,avión (v,no
+4,11,8,"otro, cu",no
+4,12,3,carreter,si
+4,12,3,carreter,si
+4,12,3,camino d,no
+4,12,3,veredas,no
+4,12,3,"mar, lag",no
+4,12,3,tren (vi,no
+4,12,3,avión (v,no
+4,12,3,"otro, cu",no
+4,12,12,carreter,no
+4,12,12,carreter,si
+4,12,12,camino d,no
+4,12,12,veredas,si
+4,12,12,"mar, lag",no
+4,12,12,tren (vi,no
+4,12,12,avión (v,no
+4,12,12,"otro, cu",no
+4,12,13,carreter,no
+4,12,13,carreter,si
+4,12,13,camino d,no
+4,12,13,veredas,si
+4,12,13,"mar, lag",no
+4,12,13,tren (vi,no
+4,12,13,avión (v,no
+4,12,13,"otro, cu",no
+4,13,15,carreter,no
+4,13,15,carreter,si
+4,13,15,camino d,no
+4,13,15,veredas,si
+4,13,15,"mar, lag",no
+4,13,15,tren (vi,no
+4,13,15,avión (v,no
+4,13,15,"otro, cu",no
+4,13,18,carreter,si
+4,13,18,carreter,si
+4,13,18,camino d,si
+4,13,18,veredas,no
+4,13,18,"mar, lag",no
+4,13,18,tren (vi,no
+4,13,18,avión (v,no
+4,13,18,"otro, cu",no
+4,15,10,carreter,no
+4,15,10,carreter,si
+4,15,10,camino d,no
+4,15,10,veredas,si
+4,15,10,"mar, lag",no
+4,15,10,tren (vi,no
+4,15,10,avión (v,no
+4,15,10,"otro, cu",no
+4,15,12,carreter,no
+4,15,12,carreter,si
+4,15,12,camino d,no
+4,15,12,veredas,si
+4,15,12,"mar, lag",no
+4,15,12,tren (vi,no
+4,15,12,avión (v,no
+4,15,12,"otro, cu",no
+4,15,13,carreter,si
+4,15,13,carreter,si
+4,15,13,camino d,no
+4,15,13,veredas,si
+4,15,13,"mar, lag",no
+4,15,13,tren (vi,no
+4,15,13,avión (v,no
+4,15,13,"otro, cu",no
+4,16,1,carreter,si
+4,16,1,carreter,no
+4,16,1,camino d,no
+4,16,1,veredas,no
+4,16,1,"mar, lag",no
+4,16,1,tren (vi,no
+4,16,1,avión (v,no
+4,16,1,"otro, cu",no
+5,1,17,carreter,si
+5,1,17,carreter,no
+5,1,17,camino d,no
+5,1,17,veredas,no
+5,1,17,"mar, lag",no
+5,1,17,tren (vi,no
+5,1,17,avión (v,no
+5,1,17,"otro, cu",no
+5,1,52,carreter,si
+5,1,52,carreter,no
+5,1,52,camino d,no
+5,1,52,veredas,no
+5,1,52,"mar, lag",no
+5,1,52,tren (vi,no
+5,1,52,avión (v,no
+5,1,52,"otro, cu",no
+5,1,62,carreter,si
+5,1,62,carreter,si
+5,1,62,camino d,no
+5,1,62,veredas,no
+5,1,62,"mar, lag",no
+5,1,62,tren (vi,no
+5,1,62,avión (v,no
+5,1,62,"otro, cu",no
+5,1,69,carreter,si
+5,1,69,carreter,si
+5,1,69,camino d,no
+5,1,69,veredas,no
+5,1,69,"mar, lag",no
+5,1,69,tren (vi,no
+5,1,69,avión (v,no
+5,1,69,"otro, cu",no
+5,1,76,carreter,no
+5,1,76,carreter,si
+5,1,76,camino d,no
+5,1,76,veredas,no
+5,1,76,"mar, lag",no
+5,1,76,tren (vi,no
+5,1,76,avión (v,no
+5,1,76,"otro, cu",no
+5,1,84,carreter,si
+5,1,84,carreter,no
+5,1,84,camino d,no
+5,1,84,veredas,si
+5,1,84,"mar, lag",no
+5,1,84,tren (vi,no
+5,1,84,avión (v,no
+5,1,84,"otro, cu",no
+5,1,87,carreter,no
+5,1,87,carreter,si
+5,1,87,camino d,no
+5,1,87,veredas,si
+5,1,87,"mar, lag",no
+5,1,87,tren (vi,no
+5,1,87,avión (v,no
+5,1,87,"otro, cu",no
+5,1,120,carreter,no
+5,1,120,carreter,no
+5,1,120,camino d,si
+5,1,120,veredas,si
+5,1,120,"mar, lag",no
+5,1,120,tren (vi,no
+5,1,120,avión (v,no
+5,1,120,"otro, cu",no
+5,2,21,carreter,no
+5,2,21,carreter,si
+5,2,21,camino d,si
+5,2,21,veredas,si
+5,2,21,"mar, lag",no
+5,2,21,tren (vi,no
+5,2,21,avión (v,no
+5,2,21,"otro, cu",no
+5,2,43,carreter,no
+5,2,43,carreter,si
+5,2,43,camino d,no
+5,2,43,veredas,si
+5,2,43,"mar, lag",no
+5,2,43,tren (vi,no
+5,2,43,avión (v,no
+5,2,43,"otro, cu",no
+5,2,49,carreter,no
+5,2,49,carreter,si
+5,2,49,camino d,no
+5,2,49,veredas,si
+5,2,49,"mar, lag",no
+5,2,49,tren (vi,no
+5,2,49,avión (v,no
+5,2,49,"otro, cu",no
+5,2,62,carreter,no
+5,2,62,carreter,no
+5,2,62,camino d,no
+5,2,62,veredas,no
+5,2,62,"mar, lag",no
+5,2,62,tren (vi,no
+5,2,62,avión (v,no
+5,2,62,"otro, cu",no
+5,2,63,carreter,no
+5,2,63,carreter,si
+5,2,63,camino d,no
+5,2,63,veredas,si
+5,2,63,"mar, lag",si
+5,2,63,tren (vi,no
+5,2,63,avión (v,no
+5,2,63,"otro, cu",no
+5,3,13,carreter,si
+5,3,13,carreter,no
+5,3,13,camino d,no
+5,3,13,veredas,no
+5,3,13,"mar, lag",no
+5,3,13,tren (vi,no
+5,3,13,avión (v,no
+5,3,13,"otro, cu",no
+5,6,7,carreter,si
+5,6,7,carreter,si
+5,6,7,camino d,no
+5,6,7,veredas,no
+5,6,7,"mar, lag",no
+5,6,7,tren (vi,no
+5,6,7,avión (v,no
+5,6,7,"otro, cu",no
+5,6,23,carreter,no
+5,6,23,carreter,si
+5,6,23,camino d,no
+5,6,23,veredas,no
+5,6,23,"mar, lag",no
+5,6,23,tren (vi,no
+5,6,23,avión (v,no
+5,6,23,"otro, cu",no
+5,6,26,carreter,no
+5,6,26,carreter,si
+5,6,26,camino d,no
+5,6,26,veredas,si
+5,6,26,"mar, lag",no
+5,6,26,tren (vi,no
+5,6,26,avión (v,no
+5,6,26,"otro, cu",no
+5,6,34,carreter,no
+5,6,34,carreter,si
+5,6,34,camino d,no
+5,6,34,veredas,no
+5,6,34,"mar, lag",no
+5,6,34,tren (vi,no
+5,6,34,avión (v,no
+5,6,34,"otro, cu",no
+5,6,43,carreter,no
+5,6,43,carreter,si
+5,6,43,camino d,no
+5,6,43,veredas,no
+5,6,43,"mar, lag",no
+5,6,43,tren (vi,no
+5,6,43,avión (v,no
+5,6,43,"otro, cu",no
+5,7,17,carreter,si
+5,7,17,carreter,no
+5,7,17,camino d,no
+5,7,17,veredas,no
+5,7,17,"mar, lag",no
+5,7,17,tren (vi,no
+5,7,17,avión (v,no
+5,7,17,"otro, cu",no
+5,7,41,carreter,si
+5,7,41,carreter,no
+5,7,41,camino d,no
+5,7,41,veredas,no
+5,7,41,"mar, lag",si
+5,7,41,tren (vi,no
+5,7,41,avión (v,no
+5,7,41,"otro, cu",no
+5,7,49,carreter,si
+5,7,49,carreter,si
+5,7,49,camino d,si
+5,7,49,veredas,si
+5,7,49,"mar, lag",si
+5,7,49,tren (vi,no
+5,7,49,avión (v,no
+5,7,49,"otro, cu",no
+5,9,16,carreter,si
+5,9,16,carreter,si
+5,9,16,camino d,no
+5,9,16,veredas,no
+5,9,16,"mar, lag",no
+5,9,16,tren (vi,no
+5,9,16,avión (v,no
+5,9,16,"otro, cu",no
+5,9,40,carreter,no
+5,9,40,carreter,si
+5,9,40,camino d,no
+5,9,40,veredas,si
+5,9,40,"mar, lag",no
+5,9,40,tren (vi,no
+5,9,40,avión (v,no
+5,9,40,"otro, cu",no
+5,11,22,carreter,no
+5,11,22,carreter,si
+5,11,22,camino d,no
+5,11,22,veredas,no
+5,11,22,"mar, lag",no
+5,11,22,tren (vi,no
+5,11,22,avión (v,no
+5,11,22,"otro, cu",no
+5,12,8,carreter,no
+5,12,8,carreter,si
+5,12,8,camino d,si
+5,12,8,veredas,si
+5,12,8,"mar, lag",no
+5,12,8,tren (vi,no
+5,12,8,avión (v,no
+5,12,8,"otro, cu",no
+5,12,11,carreter,si
+5,12,11,carreter,si
+5,12,11,camino d,si
+5,12,11,veredas,si
+5,12,11,"mar, lag",no
+5,12,11,tren (vi,no
+5,12,11,avión (v,no
+5,12,11,"otro, cu",no
+5,13,35,carreter,si
+5,13,35,carreter,si
+5,13,35,camino d,no
+5,13,35,veredas,no
+5,13,35,"mar, lag",no
+5,13,35,tren (vi,no
+5,13,35,avión (v,no
+5,13,35,"otro, cu",no
+5,13,44,carreter,si
+5,13,44,carreter,si
+5,13,44,camino d,si
+5,13,44,veredas,si
+5,13,44,"mar, lag",no
+5,13,44,tren (vi,no
+5,13,44,avión (v,no
+5,13,44,"otro, cu",no
+5,13,54,carreter,si
+5,13,54,carreter,no
+5,13,54,camino d,no
+5,13,54,veredas,si
+5,13,54,"mar, lag",no
+5,13,54,tren (vi,no
+5,13,54,avión (v,no
+5,13,54,"otro, cu",no
+6,1,10,carreter,si
+6,1,10,carreter,si
+6,1,10,camino d,si
+6,1,10,veredas,si
+6,1,10,"mar, lag",si
+6,1,10,tren (vi,no
+6,1,10,avión (v,no
+6,1,10,"otro, cu",no
+6,2,33,carreter,si
+6,2,33,carreter,si
+6,2,33,camino d,no
+6,2,33,veredas,no
+6,2,33,"mar, lag",no
+6,2,33,tren (vi,no
+6,2,33,avión (v,no
+6,2,33,"otro, cu",no
+6,5,3,carreter,si
+6,5,3,carreter,si
+6,5,3,camino d,si
+6,5,3,veredas,si
+6,5,3,"mar, lag",si
+6,5,3,tren (vi,no
+6,5,3,avión (v,no
+6,5,3,"otro, cu",no
+6,6,6,carreter,si
+6,6,6,carreter,no
+6,6,6,camino d,si
+6,6,6,veredas,si
+6,6,6,"mar, lag",no
+6,6,6,tren (vi,no
+6,6,6,avión (v,no
+6,6,6,"otro, cu",no
+6,6,23,carreter,no
+6,6,23,carreter,no
+6,6,23,camino d,si
+6,6,23,veredas,si
+6,6,23,"mar, lag",no
+6,6,23,tren (vi,no
+6,6,23,avión (v,no
+6,6,23,"otro, cu",no
+6,8,40,carreter,no
+6,8,40,carreter,si
+6,8,40,camino d,no
+6,8,40,veredas,si
+6,8,40,"mar, lag",si
+6,8,40,tren (vi,no
+6,8,40,avión (v,no
+6,8,40,"otro, cu",no
+6,8,50,carreter,no
+6,8,50,carreter,no
+6,8,50,camino d,no
+6,8,50,veredas,si
+6,8,50,"mar, lag",si
+6,8,50,tren (vi,no
+6,8,50,avión (v,no
+6,8,50,"otro, cu",no
+6,9,21,carreter,no
+6,9,21,carreter,si
+6,9,21,camino d,si
+6,9,21,veredas,no
+6,9,21,"mar, lag",no
+6,9,21,tren (vi,no
+6,9,21,avión (v,no
+6,9,21,"otro, cu",no
+6,9,22,carreter,si
+6,9,22,carreter,no
+6,9,22,camino d,no
+6,9,22,veredas,si
+6,9,22,"mar, lag",no
+6,9,22,tren (vi,no
+6,9,22,avión (v,no
+6,9,22,"otro, cu",no
+6,10,4,carreter,no
+6,10,4,carreter,si
+6,10,4,camino d,si
+6,10,4,veredas,si
+6,10,4,"mar, lag",no
+6,10,4,tren (vi,no
+6,10,4,avión (v,no
+6,10,4,"otro, cu",no
+6,11,13,carreter,no
+6,11,13,carreter,si
+6,11,13,camino d,si
+6,11,13,veredas,si
+6,11,13,"mar, lag",no
+6,11,13,tren (vi,no
+6,11,13,avión (v,no
+6,11,13,"otro, cu",no
+6,12,1,carreter,si
+6,12,1,carreter,si
+6,12,1,camino d,no
+6,12,1,veredas,si
+6,12,1,"mar, lag",no
+6,12,1,tren (vi,no
+6,12,1,avión (v,no
+6,12,1,"otro, cu",no
+6,12,7,carreter,si
+6,12,7,carreter,si
+6,12,7,camino d,si
+6,12,7,veredas,si
+6,12,7,"mar, lag",no
+6,12,7,tren (vi,no
+6,12,7,avión (v,no
+6,12,7,"otro, cu",no
+6,13,9,carreter,si
+6,13,9,carreter,no
+6,13,9,camino d,no
+6,13,9,veredas,no
+6,13,9,"mar, lag",no
+6,13,9,tren (vi,no
+6,13,9,avión (v,no
+6,13,9,"otro, cu",no
+6,13,24,carreter,no
+6,13,24,carreter,no
+6,13,24,camino d,si
+6,13,24,veredas,no
+6,13,24,"mar, lag",no
+6,13,24,tren (vi,no
+6,13,24,avión (v,no
+6,13,24,"otro, cu",no
+6,14,3,carreter,si
+6,14,3,carreter,si
+6,14,3,camino d,si
+6,14,3,veredas,si
+6,14,3,"mar, lag",no
+6,14,3,tren (vi,no
+6,14,3,avión (v,no
+6,14,3,"otro, cu",no
+6,14,16,carreter,si
+6,14,16,carreter,si
+6,14,16,camino d,si
+6,14,16,veredas,si
+6,14,16,"mar, lag",no
+6,14,16,tren (vi,no
+6,14,16,avión (v,no
+6,14,16,"otro, cu",no
+6,14,21,carreter,no
+6,14,21,carreter,si
+6,14,21,camino d,si
+6,14,21,veredas,si
+6,14,21,"mar, lag",no
+6,14,21,tren (vi,no
+6,14,21,avión (v,no
+6,14,21,"otro, cu",no
+6,14,23,carreter,si
+6,14,23,carreter,si
+6,14,23,camino d,si
+6,14,23,veredas,si
+6,14,23,"mar, lag",no
+6,14,23,tren (vi,no
+6,14,23,avión (v,no
+6,14,23,"otro, cu",no
+7,1,31,carreter,no
+7,1,31,carreter,si
+7,1,31,camino d,no
+7,1,31,veredas,si
+7,1,31,"mar, lag",no
+7,1,31,tren (vi,no
+7,1,31,avión (v,no
+7,1,31,"otro, cu",no
+7,14,3,carreter,si
+7,14,3,carreter,no
+7,14,3,camino d,no
+7,14,3,veredas,si
+7,14,3,"mar, lag",no
+7,14,3,tren (vi,no
+7,14,3,avión (v,no
+7,14,3,"otro, cu",no
+7,17,3,carreter,si
+7,17,3,carreter,no
+7,17,3,camino d,no
+7,17,3,veredas,si
+7,17,3,"mar, lag",si
+7,17,3,tren (vi,no
+7,17,3,avión (v,no
+7,17,3,"otro, cu",no
+8,3,2,carreter,si
+8,3,2,carreter,si
+8,3,2,camino d,no
+8,3,2,veredas,si
+8,3,2,"mar, lag",no
+8,3,2,tren (vi,no
+8,3,2,avión (v,no
+8,3,2,"otro, cu",no
+8,5,22,carreter,no
+8,5,22,carreter,si
+8,5,22,camino d,no
+8,5,22,veredas,si
+8,5,22,"mar, lag",no
+8,5,22,tren (vi,no
+8,5,22,avión (v,no
+8,5,22,"otro, cu",no
+8,6,34,carreter,si
+8,6,34,carreter,no
+8,6,34,camino d,no
+8,6,34,veredas,si
+8,6,34,"mar, lag",no
+8,6,34,tren (vi,no
+8,6,34,avión (v,no
+8,6,34,"otro, cu",no
+8,6,34,carreter,si
+8,6,34,carreter,si
+8,6,34,camino d,no
+8,6,34,veredas,si
+8,6,34,"mar, lag",no
+8,6,34,tren (vi,no
+8,6,34,avión (v,no
+8,6,34,"otro, cu",no
+8,7,8,carreter,no
+8,7,8,carreter,si
+8,7,8,camino d,no
+8,7,8,veredas,si
+8,7,8,"mar, lag",no
+8,7,8,tren (vi,no
+8,7,8,avión (v,no
+8,7,8,"otro, cu",no
+9,1,4,carreter,no
+9,1,4,carreter,si
+9,1,4,camino d,no
+9,1,4,veredas,si
+9,1,4,"mar, lag",no
+9,1,4,tren (vi,no
+9,1,4,avión (v,no
+9,1,4,"otro, cu",si
+9,1,25,carreter,si
+9,1,25,carreter,no
+9,1,25,camino d,no
+9,1,25,veredas,no
+9,1,25,"mar, lag",no
+9,1,25,tren (vi,no
+9,1,25,avión (v,no
+9,1,25,"otro, cu",no
+9,1,26,carreter,no
+9,1,26,carreter,si
+9,1,26,camino d,no
+9,1,26,veredas,no
+9,1,26,"mar, lag",no
+9,1,26,tren (vi,no
+9,1,26,avión (v,no
+9,1,26,"otro, cu",no
+9,1,27,carreter,no
+9,1,27,carreter,no
+9,1,27,camino d,no
+9,1,27,veredas,no
+9,1,27,"mar, lag",no
+9,1,27,tren (vi,no
+9,1,27,avión (v,no
+9,1,27,"otro, cu",si
+9,1,40,carreter,no
+9,1,40,carreter,si
+9,1,40,camino d,no
+9,1,40,veredas,no
+9,1,40,"mar, lag",no
+9,1,40,tren (vi,no
+9,1,40,avión (v,no
+9,1,40,"otro, cu",no
+9,1,53,carreter,si
+9,1,53,carreter,no
+9,1,53,camino d,no
+9,1,53,veredas,no
+9,1,53,"mar, lag",no
+9,1,53,tren (vi,no
+9,1,53,avión (v,no
+9,1,53,"otro, cu",no
+9,1,69,carreter,no
+9,1,69,carreter,si
+9,1,69,camino d,no
+9,1,69,veredas,si
+9,1,69,"mar, lag",si
+9,1,69,tren (vi,no
+9,1,69,avión (v,no
+9,1,69,"otro, cu",no
+9,1,80,carreter,si
+9,1,80,carreter,si
+9,1,80,camino d,no
+9,1,80,veredas,si
+9,1,80,"mar, lag",no
+9,1,80,tren (vi,no
+9,1,80,avión (v,no
+9,1,80,"otro, cu",no
+9,1,89,carreter,si
+9,1,89,carreter,no
+9,1,89,camino d,no
+9,1,89,veredas,si
+9,1,89,"mar, lag",no
+9,1,89,tren (vi,no
+9,1,89,avión (v,no
+9,1,89,"otro, cu",no
+9,3,1,carreter,no
+9,3,1,carreter,no
+9,3,1,camino d,no
+9,3,1,veredas,no
+9,3,1,"mar, lag",no
+9,3,1,tren (vi,no
+9,3,1,avión (v,no
+9,3,1,"otro, cu",no
+9,3,6,carreter,no
+9,3,6,carreter,si
+9,3,6,camino d,no
+9,3,6,veredas,si
+9,3,6,"mar, lag",no
+9,3,6,tren (vi,no
+9,3,6,avión (v,no
+9,3,6,"otro, cu",no
+9,4,30,carreter,si
+9,4,30,carreter,no
+9,4,30,camino d,no
+9,4,30,veredas,si
+9,4,30,"mar, lag",no
+9,4,30,tren (vi,no
+9,4,30,avión (v,no
+9,4,30,"otro, cu",no
+9,4,34,carreter,si
+9,4,34,carreter,si
+9,4,34,camino d,si
+9,4,34,veredas,si
+9,4,34,"mar, lag",no
+9,4,34,tren (vi,no
+9,4,34,avión (v,no
+9,4,34,"otro, cu",no
+9,5,5,carreter,si
+9,5,5,carreter,no
+9,5,5,camino d,si
+9,5,5,veredas,si
+9,5,5,"mar, lag",no
+9,5,5,tren (vi,no
+9,5,5,avión (v,no
+9,5,5,"otro, cu",no
+9,7,2,carreter,no
+9,7,2,carreter,si
+9,7,2,camino d,no
+9,7,2,veredas,si
+9,7,2,"mar, lag",no
+9,7,2,tren (vi,no
+9,7,2,avión (v,no
+9,7,2,"otro, cu",no
+9,9,28,carreter,no
+9,9,28,carreter,si
+9,9,28,camino d,no
+9,9,28,veredas,si
+9,9,28,"mar, lag",no
+9,9,28,tren (vi,no
+9,9,28,avión (v,no
+9,9,28,"otro, cu",no
+9,11,6,carreter,si
+9,11,6,carreter,si
+9,11,6,camino d,no
+9,11,6,veredas,si
+9,11,6,"mar, lag",no
+9,11,6,tren (vi,no
+9,11,6,avión (v,no
+9,11,6,"otro, cu",no
+9,11,10,carreter,no
+9,11,10,carreter,si
+9,11,10,camino d,no
+9,11,10,veredas,si
+9,11,10,"mar, lag",no
+9,11,10,tren (vi,no
+9,11,10,avión (v,no
+9,11,10,"otro, cu",no
+9,12,2,carreter,si
+9,12,2,carreter,no
+9,12,2,camino d,no
+9,12,2,veredas,no
+9,12,2,"mar, lag",no
+9,12,2,tren (vi,no
+9,12,2,avión (v,no
+9,12,2,"otro, cu",no
+9,12,15,carreter,no
+9,12,15,carreter,no
+9,12,15,camino d,no
+9,12,15,veredas,si
+9,12,15,"mar, lag",no
+9,12,15,tren (vi,no
+9,12,15,avión (v,no
+9,12,15,"otro, cu",no
+9,13,7,carreter,si
+9,13,7,carreter,no
+9,13,7,camino d,no
+9,13,7,veredas,no
+9,13,7,"mar, lag",si
+9,13,7,tren (vi,no
+9,13,7,avión (v,no
+9,13,7,"otro, cu",no
+9,14,1,carreter,si
+9,14,1,carreter,no
+9,14,1,camino d,si
+9,14,1,veredas,si
+9,14,1,"mar, lag",si
+9,14,1,tren (vi,no
+9,14,1,avión (v,no
+9,14,1,"otro, cu",no
+9,17,2,carreter,no
+9,17,2,carreter,no
+9,17,2,camino d,no
+9,17,2,veredas,si
+9,17,2,"mar, lag",no
+9,17,2,tren (vi,no
+9,17,2,avión (v,no
+9,17,2,"otro, cu",no
+9,20,25,carreter,no
+9,20,25,carreter,si
+9,20,25,camino d,si
+9,20,25,veredas,no
+9,20,25,"mar, lag",no
+9,20,25,tren (vi,no
+9,20,25,avión (v,no
+9,20,25,"otro, cu",no
+9,20,67,carreter,no
+9,20,67,carreter,si
+9,20,67,camino d,si
+9,20,67,veredas,si
+9,20,67,"mar, lag",no
+9,20,67,tren (vi,no
+9,20,67,avión (v,no
+9,20,67,"otro, cu",no
+9,20,68,carreter,no
+9,20,68,carreter,si
+9,20,68,camino d,si
+9,20,68,veredas,no
+9,20,68,"mar, lag",no
+9,20,68,tren (vi,no
+9,20,68,avión (v,no
+9,20,68,"otro, cu",no
+9,21,18,carreter,si
+9,21,18,carreter,si
+9,21,18,camino d,si
+9,21,18,veredas,si
+9,21,18,"mar, lag",no
+9,21,18,tren (vi,no
+9,21,18,avión (v,no
+9,21,18,"otro, cu",no
+9,23,4,carreter,no
+9,23,4,carreter,si
+9,23,4,camino d,si
+9,23,4,veredas,si
+9,23,4,"mar, lag",no
+9,23,4,tren (vi,no
+9,23,4,avión (v,no
+9,23,4,"otro, cu",no
+10,1,26,carreter,si
+10,1,26,carreter,no
+10,1,26,camino d,no
+10,1,26,veredas,no
+10,1,26,"mar, lag",no
+10,1,26,tren (vi,no
+10,1,26,avión (v,no
+10,1,26,"otro, cu",no
+10,1,36,carreter,si
+10,1,36,carreter,si
+10,1,36,camino d,si
+10,1,36,veredas,si
+10,1,36,"mar, lag",no
+10,1,36,tren (vi,no
+10,1,36,avión (v,no
+10,1,36,"otro, cu",no
+10,2,20,carreter,no
+10,2,20,carreter,si
+10,2,20,camino d,no
+10,2,20,veredas,si
+10,2,20,"mar, lag",no
+10,2,20,tren (vi,no
+10,2,20,avión (v,no
+10,2,20,"otro, cu",no
+10,2,25,carreter,no
+10,2,25,carreter,si
+10,2,25,camino d,si
+10,2,25,veredas,si
+10,2,25,"mar, lag",no
+10,2,25,tren (vi,no
+10,2,25,avión (v,no
+10,2,25,"otro, cu",no
+10,2,36,carreter,no
+10,2,36,carreter,si
+10,2,36,camino d,si
+10,2,36,veredas,si
+10,2,36,"mar, lag",si
+10,2,36,tren (vi,no
+10,2,36,avión (v,no
+10,2,36,"otro, cu",no
+10,6,26,carreter,si
+10,6,26,carreter,si
+10,6,26,camino d,si
+10,6,26,veredas,si
+10,6,26,"mar, lag",no
+10,6,26,tren (vi,no
+10,6,26,avión (v,no
+10,6,26,"otro, cu",no
+10,10,12,carreter,si
+10,10,12,carreter,no
+10,10,12,camino d,no
+10,10,12,veredas,si
+10,10,12,"mar, lag",no
+10,10,12,tren (vi,no
+10,10,12,avión (v,no
+10,10,12,"otro, cu",no
+10,10,13,carreter,no
+10,10,13,carreter,si
+10,10,13,camino d,si
+10,10,13,veredas,si
+10,10,13,"mar, lag",no
+10,10,13,tren (vi,no
+10,10,13,avión (v,no
+10,10,13,"otro, cu",no
+10,14,7,carreter,no
+10,14,7,carreter,si
+10,14,7,camino d,no
+10,14,7,veredas,si
+10,14,7,"mar, lag",no
+10,14,7,tren (vi,no
+10,14,7,avión (v,no
+10,14,7,"otro, cu",no
+10,14,16,carreter,no
+10,14,16,carreter,si
+10,14,16,camino d,no
+10,14,16,veredas,no
+10,14,16,"mar, lag",no
+10,14,16,tren (vi,no
+10,14,16,avión (v,no
+10,14,16,"otro, cu",no
+10,14,27,carreter,no
+10,14,27,carreter,si
+10,14,27,camino d,no
+10,14,27,veredas,si
+10,14,27,"mar, lag",no
+10,14,27,tren (vi,no
+10,14,27,avión (v,no
+10,14,27,"otro, cu",no
+10,17,6,carreter,no
+10,17,6,carreter,si
+10,17,6,camino d,si
+10,17,6,veredas,si
+10,17,6,"mar, lag",no
+10,17,6,tren (vi,no
+10,17,6,avión (v,no
+10,17,6,"otro, cu",no
+10,20,3,carreter,si
+10,20,3,carreter,si
+10,20,3,camino d,no
+10,20,3,veredas,no
+10,20,3,"mar, lag",no
+10,20,3,tren (vi,no
+10,20,3,avión (v,no
+10,20,3,"otro, cu",no
+11,1,57,carreter,no
+11,1,57,carreter,si
+11,1,57,camino d,si
+11,1,57,veredas,no
+11,1,57,"mar, lag",no
+11,1,57,tren (vi,no
+11,1,57,avión (v,no
+11,1,57,"otro, cu",no
+11,8,1,carreter,si
+11,8,1,carreter,si
+11,8,1,camino d,no
+11,8,1,veredas,no
+11,8,1,"mar, lag",si
+11,8,1,tren (vi,no
+11,8,1,avión (v,no
+11,8,1,"otro, cu",no
+11,9,6,carreter,no
+11,9,6,carreter,si
+11,9,6,camino d,no
+11,9,6,veredas,si
+11,9,6,"mar, lag",no
+11,9,6,tren (vi,no
+11,9,6,avión (v,no
+11,9,6,"otro, cu",no
+11,9,8,carreter,no
+11,9,8,carreter,si
+11,9,8,camino d,si
+11,9,8,veredas,si
+11,9,8,"mar, lag",no
+11,9,8,tren (vi,no
+11,9,8,avión (v,no
+11,9,8,"otro, cu",no
+12,1,8,carreter,si
+12,1,8,carreter,si
+12,1,8,camino d,si
+12,1,8,veredas,no
+12,1,8,"mar, lag",no
+12,1,8,tren (vi,no
+12,1,8,avión (v,no
+12,1,8,"otro, cu",no
+12,1,12,carreter,no
+12,1,12,carreter,si
+12,1,12,camino d,no
+12,1,12,veredas,no
+12,1,12,"mar, lag",no
+12,1,12,tren (vi,no
+12,1,12,avión (v,no
+12,1,12,"otro, cu",no
+12,1,17,carreter,no
+12,1,17,carreter,si
+12,1,17,camino d,no
+12,1,17,veredas,no
+12,1,17,"mar, lag",no
+12,1,17,tren (vi,no
+12,1,17,avión (v,no
+12,1,17,"otro, cu",si
+12,2,18,carreter,no
+12,2,18,carreter,si
+12,2,18,camino d,no
+12,2,18,veredas,no
+12,2,18,"mar, lag",no
+12,2,18,tren (vi,no
+12,2,18,avión (v,no
+12,2,18,"otro, cu",no
+12,2,60,carreter,si
+12,2,60,carreter,no
+12,2,60,camino d,si
+12,2,60,veredas,si
+12,2,60,"mar, lag",no
+12,2,60,tren (vi,no
+12,2,60,avión (v,no
+12,2,60,"otro, cu",no
+12,3,4,carreter,no
+12,3,4,carreter,si
+12,3,4,camino d,si
+12,3,4,veredas,si
+12,3,4,"mar, lag",no
+12,3,4,tren (vi,no
+12,3,4,avión (v,no
+12,3,4,"otro, cu",no
+12,4,34,carreter,no
+12,4,34,carreter,si
+12,4,34,camino d,si
+12,4,34,veredas,si
+12,4,34,"mar, lag",no
+12,4,34,tren (vi,no
+12,4,34,avión (v,no
+12,4,34,"otro, cu",no
+12,5,17,carreter,no
+12,5,17,carreter,si
+12,5,17,camino d,no
+12,5,17,veredas,si
+12,5,17,"mar, lag",no
+12,5,17,tren (vi,no
+12,5,17,avión (v,no
+12,5,17,"otro, cu",no
+12,6,6,carreter,no
+12,6,6,carreter,si
+12,6,6,camino d,si
+12,6,6,veredas,si
+12,6,6,"mar, lag",no
+12,6,6,tren (vi,no
+12,6,6,avión (v,no
+12,6,6,"otro, cu",no
+12,6,27,carreter,si
+12,6,27,carreter,si
+12,6,27,camino d,no
+12,6,27,veredas,si
+12,6,27,"mar, lag",no
+12,6,27,tren (vi,no
+12,6,27,avión (v,no
+12,6,27,"otro, cu",no
+12,6,32,carreter,si
+12,6,32,carreter,no
+12,6,32,camino d,si
+12,6,32,veredas,si
+12,6,32,"mar, lag",no
+12,6,32,tren (vi,no
+12,6,32,avión (v,no
+12,6,32,"otro, cu",no
+12,6,43,carreter,no
+12,6,43,carreter,si
+12,6,43,camino d,si
+12,6,43,veredas,si
+12,6,43,"mar, lag",no
+12,6,43,tren (vi,no
+12,6,43,avión (v,no
+12,6,43,"otro, cu",no
+12,7,24,carreter,no
+12,7,24,carreter,no
+12,7,24,camino d,si
+12,7,24,veredas,si
+12,7,24,"mar, lag",no
+12,7,24,tren (vi,no
+12,7,24,avión (v,no
+12,7,24,"otro, cu",no
+12,7,29,carreter,no
+12,7,69,carreter,no
+12,7,69,carreter,no
+12,7,69,camino d,si
+12,7,69,veredas,si
+12,7,69,"mar, lag",no
+12,7,69,tren (vi,no
+12,7,69,avión (v,no
+12,7,69,"otro, cu",no
+12,9,16,carreter,no
+12,9,16,carreter,no
+12,9,16,camino d,si
+12,9,16,veredas,si
+12,9,16,"mar, lag",no
+12,9,16,tren (vi,no
+12,9,16,avión (v,no
+12,9,16,"otro, cu",no
+12,10,2,carreter,no
+12,10,2,carreter,si
+12,10,2,camino d,si
+12,10,2,veredas,no
+12,10,2,"mar, lag",no
+12,10,2,tren (vi,no
+12,10,2,avión (v,no
+12,10,2,"otro, cu",no
+12,10,19,carreter,si
+12,10,19,carreter,si
+12,10,19,camino d,no
+12,10,19,veredas,no
+12,10,19,"mar, lag",no
+12,10,19,tren (vi,no
+12,10,19,avión (v,no
+12,10,19,"otro, cu",no
+12,14,5,carreter,si
+12,14,5,carreter,si
+12,14,5,camino d,no
+12,14,5,veredas,si
+12,14,5,"mar, lag",no
+12,14,5,tren (vi,no
+12,14,5,avión (v,no
+12,14,5,"otro, cu",no
+12,14,15,carreter,no
+12,14,15,carreter,si
+12,14,15,camino d,no
+12,14,15,veredas,si
+12,14,15,"mar, lag",no
+12,14,15,tren (vi,no
+12,14,15,avión (v,no
+12,14,15,"otro, cu",no
+12,15,15,carreter,no
+12,15,15,carreter,si
+12,15,15,camino d,no
+12,15,15,veredas,no
+12,15,15,"mar, lag",no
+12,15,15,tren (vi,no
+12,15,15,avión (v,no
+12,15,15,"otro, cu",si
+12,18,10,carreter,si
+12,18,10,carreter,si
+12,18,10,camino d,no
+12,18,10,veredas,no
+12,18,10,"mar, lag",si
+12,18,10,tren (vi,no
+12,18,10,avión (v,no
+12,18,10,"otro, cu",no
+12,18,19,carreter,si
+12,18,19,carreter,si
+12,18,19,camino d,no
+12,18,19,veredas,no
+12,18,19,"mar, lag",si
+12,18,19,tren (vi,no
+12,18,19,avión (v,no
+12,18,19,"otro, cu",no
+12,28,2,carreter,no
+12,28,2,carreter,si
+12,28,2,camino d,si
+12,28,2,veredas,no
+12,28,2,"mar, lag",no
+12,28,2,tren (vi,no
+12,28,2,avión (v,no
+12,28,2,"otro, cu",no
+13,1,8,carreter,si
+13,1,8,carreter,si
+13,1,8,camino d,no
+13,1,8,veredas,no
+13,1,8,"mar, lag",no
+13,1,8,tren (vi,no
+13,1,8,avión (v,no
+13,1,8,"otro, cu",no
+13,1,9,carreter,si
+13,1,9,carreter,si
+13,1,9,camino d,no
+13,1,9,veredas,no
+13,1,9,"mar, lag",no
+13,1,9,tren (vi,no
+13,1,9,avión (v,no
+13,1,9,"otro, cu",no
+13,1,11,carreter,si
+13,1,11,carreter,si
+13,1,11,camino d,no
+13,1,11,veredas,no
+13,1,11,"mar, lag",no
+13,1,11,tren (vi,no
+13,1,11,avión (v,no
+13,1,11,"otro, cu",no
+13,1,15,carreter,no
+13,1,15,carreter,si
+13,1,15,camino d,si
+13,1,15,veredas,si
+13,1,15,"mar, lag",no
+13,1,15,tren (vi,no
+13,1,15,avión (v,no
+13,1,15,"otro, cu",no
+13,1,52,carreter,si
+13,1,52,carreter,no
+13,1,52,camino d,si
+13,1,52,veredas,si
+13,1,52,"mar, lag",si
+13,1,52,tren (vi,no
+13,1,52,avión (v,no
+13,1,52,"otro, cu",no
+13,1,74,carreter,no
+13,1,74,carreter,no
+13,1,74,camino d,si
+13,1,74,veredas,si
+13,1,74,"mar, lag",no
+13,1,74,tren (vi,no
+13,1,74,avión (v,no
+13,1,74,"otro, cu",no
+13,2,3,carreter,no
+13,2,3,carreter,si
+13,2,3,camino d,si
+13,2,3,veredas,no
+13,2,3,"mar, lag",no
+13,2,3,tren (vi,no
+13,2,3,avión (v,no
+13,2,3,"otro, cu",no
+13,2,9,carreter,no
+13,2,9,carreter,no
+13,2,9,camino d,si
+13,2,9,veredas,si
+13,2,9,"mar, lag",no
+13,2,9,tren (vi,no
+13,2,9,avión (v,no
+13,2,9,"otro, cu",no
+13,2,10,carreter,no
+13,2,10,carreter,no
+13,2,10,camino d,si
+13,2,10,veredas,no
+13,2,10,"mar, lag",no
+13,2,10,tren (vi,no
+13,2,10,avión (v,no
+13,2,10,"otro, cu",no
+13,2,21,carreter,si
+13,2,21,carreter,si
+13,2,21,camino d,si
+13,2,21,veredas,si
+13,2,21,"mar, lag",no
+13,2,21,tren (vi,no
+13,2,21,avión (v,no
+13,2,21,"otro, cu",no
+13,2,25,carreter,si
+13,2,25,carreter,si
+13,2,25,camino d,si
+13,2,25,veredas,si
+13,2,25,"mar, lag",no
+13,2,25,tren (vi,no
+13,2,25,avión (v,no
+13,2,25,"otro, cu",no
+13,2,40,carreter,no
+13,2,40,carreter,si
+13,2,40,camino d,si
+13,2,40,veredas,no
+13,2,40,"mar, lag",no
+13,2,40,tren (vi,no
+13,2,40,avión (v,no
+13,2,40,"otro, cu",no
+13,3,7,carreter,si
+13,3,7,carreter,si
+13,3,7,camino d,si
+13,3,7,veredas,si
+13,3,7,"mar, lag",no
+13,3,7,tren (vi,no
+13,3,7,avión (v,no
+13,3,7,"otro, cu",no
+13,4,29,carreter,no
+13,4,29,carreter,si
+13,4,29,camino d,si
+13,4,29,veredas,si
+13,4,29,"mar, lag",no
+13,4,29,tren (vi,no
+13,4,29,avión (v,no
+13,4,29,"otro, cu",no
+13,4,40,carreter,no
+13,4,40,carreter,no
+13,4,40,camino d,no
+13,4,40,veredas,si
+13,4,40,"mar, lag",no
+13,4,40,tren (vi,no
+13,4,40,avión (v,no
+13,4,40,"otro, cu",no
+13,4,55,carreter,si
+13,4,55,carreter,no
+13,4,55,camino d,no
+13,4,55,veredas,si
+13,4,55,"mar, lag",no
+13,4,55,tren (vi,no
+13,4,55,avión (v,no
+13,4,55,"otro, cu",no
+13,5,9,carreter,si
+13,5,9,carreter,si
+13,5,9,camino d,si
+13,5,9,veredas,si
+13,5,9,"mar, lag",no
+13,5,9,tren (vi,no
+13,5,9,avión (v,no
+13,5,9,"otro, cu",no
+13,5,10,carreter,no
+13,5,10,carreter,si
+13,5,10,camino d,si
+13,5,10,veredas,si
+13,5,10,"mar, lag",no
+13,5,10,tren (vi,no
+13,5,10,avión (v,no
+13,5,10,"otro, cu",no
+13,5,12,carreter,si
+13,5,12,carreter,no
+13,5,12,camino d,si
+13,5,12,veredas,si
+13,5,12,"mar, lag",no
+13,5,12,tren (vi,no
+13,5,12,avión (v,no
+13,5,12,"otro, cu",no
+13,5,26,carreter,si
+13,5,26,carreter,si
+13,5,26,camino d,si
+13,5,26,veredas,si
+13,5,26,"mar, lag",si
+13,5,26,tren (vi,no
+13,5,26,avión (v,no
+13,5,26,"otro, cu",no
+13,6,9,carreter,no
+13,6,9,carreter,no
+13,6,9,camino d,si
+13,6,9,veredas,si
+13,6,9,"mar, lag",no
+13,6,9,tren (vi,no
+13,6,9,avión (v,no
+13,6,9,"otro, cu",no
+13,6,14,carreter,no
+13,6,14,carreter,si
+13,6,14,camino d,si
+13,6,14,veredas,si
+13,6,14,"mar, lag",no
+13,6,14,tren (vi,no
+13,6,14,avión (v,no
+13,6,14,"otro, cu",no
+13,7,17,carreter,no
+13,7,17,carreter,si
+13,7,17,camino d,no
+13,7,17,veredas,si
+13,7,17,"mar, lag",no
+13,7,17,tren (vi,no
+13,7,17,avión (v,no
+13,7,17,"otro, cu",no
+13,7,22,carreter,no
+13,7,22,carreter,si
+13,7,22,camino d,si
+13,7,22,veredas,no
+13,7,22,"mar, lag",no
+13,7,22,tren (vi,no
+13,7,22,avión (v,no
+13,7,22,"otro, cu",no
+13,7,28,carreter,si
+13,7,28,carreter,no
+13,7,28,camino d,si
+13,7,28,veredas,si
+13,7,28,"mar, lag",no
+13,7,28,tren (vi,no
+13,7,28,avión (v,no
+13,7,28,"otro, cu",no
+13,8,15,carreter,no
+13,8,15,carreter,si
+13,8,15,camino d,si
+13,8,15,veredas,si
+13,8,15,"mar, lag",no
+13,8,15,tren (vi,no
+13,8,15,avión (v,no
+13,8,15,"otro, cu",no
+13,8,24,carreter,si
+13,8,24,carreter,no
+13,8,24,camino d,si
+13,8,24,veredas,si
+13,8,24,"mar, lag",no
+13,8,24,tren (vi,no
+13,8,24,avión (v,no
+13,8,24,"otro, cu",no
+13,8,30,carreter,no
+13,8,30,carreter,si
+13,8,30,camino d,si
+13,8,30,veredas,si
+13,8,30,"mar, lag",no
+13,8,30,tren (vi,no
+13,8,30,avión (v,no
+13,8,30,"otro, cu",no
+13,9,17,carreter,si
+13,9,17,carreter,no
+13,9,17,camino d,si
+13,9,17,veredas,si
+13,9,17,"mar, lag",no
+13,9,17,tren (vi,no
+13,9,17,avión (v,no
+13,9,17,"otro, cu",no
+13,10,16,carreter,no
+13,10,16,carreter,si
+13,10,16,camino d,no
+13,10,16,veredas,si
+13,10,16,"mar, lag",no
+13,10,16,tren (vi,no
+13,10,16,avión (v,no
+13,10,16,"otro, cu",no
+13,12,9,carreter,si
+13,12,9,carreter,si
+13,12,9,camino d,no
+13,12,9,veredas,no
+13,12,9,"mar, lag",no
+13,12,9,tren (vi,no
+13,12,9,avión (v,no
+13,12,9,"otro, cu",no
+13,12,28,carreter,no
+13,12,28,carreter,si
+13,12,28,camino d,si
+13,12,28,veredas,si
+13,12,28,"mar, lag",si
+13,12,28,tren (vi,no
+13,12,28,avión (v,no
+13,12,28,"otro, cu",no
+13,13,4,carreter,no
+13,13,4,carreter,si
+13,13,4,camino d,no
+13,13,4,veredas,si
+13,13,4,"mar, lag",no
+13,13,4,tren (vi,no
+13,13,4,avión (v,no
+13,13,4,"otro, cu",no
+13,13,9,carreter,no
+13,13,9,carreter,si
+13,13,9,camino d,no
+13,13,9,veredas,si
+13,13,9,"mar, lag",no
+13,13,9,tren (vi,no
+13,13,9,avión (v,no
+13,13,9,"otro, cu",no
+13,13,11,carreter,no
+13,13,11,carreter,si
+13,13,11,camino d,no
+13,13,11,veredas,si
+13,13,11,"mar, lag",no
+13,13,11,tren (vi,no
+13,13,11,avión (v,no
+13,13,11,"otro, cu",no
+13,15,6,carreter,no
+13,15,6,carreter,si
+13,15,6,camino d,si
+13,15,6,veredas,si
+13,15,6,"mar, lag",no
+13,15,6,tren (vi,no
+13,15,6,avión (v,no
+13,15,6,"otro, cu",no
+13,15,17,carreter,no
+13,15,17,carreter,si
+13,15,17,camino d,si
+13,15,17,veredas,si
+13,15,17,"mar, lag",no
+13,15,17,tren (vi,no
+13,15,17,avión (v,no
+13,15,17,"otro, cu",no
+13,15,21,carreter,no
+13,15,21,carreter,si
+13,15,21,camino d,no
+13,15,21,veredas,si
+13,15,21,"mar, lag",no
+13,15,21,tren (vi,no
+13,15,21,avión (v,no
+13,15,21,"otro, cu",no
+13,16,17,carreter,no
+13,16,17,carreter,si
+13,16,17,camino d,no
+13,16,17,veredas,si
+13,16,17,"mar, lag",si
+13,16,17,tren (vi,no
+13,16,17,avión (v,no
+13,16,17,"otro, cu",no
+13,16,19,carreter,no
+13,16,19,carreter,si
+13,16,19,camino d,no
+13,16,19,veredas,si
+13,16,19,"mar, lag",si
+13,16,19,tren (vi,no
+13,16,19,avión (v,no
+13,16,19,"otro, cu",no
+13,16,21,carreter,no
+13,16,21,carreter,si
+13,16,21,camino d,no
+13,16,21,veredas,si
+13,16,21,"mar, lag",si
+13,16,21,tren (vi,no
+13,16,21,avión (v,no
+13,16,21,"otro, cu",no
+13,17,28,carreter,no
+13,17,28,carreter,no
+13,17,28,camino d,si
+13,17,28,veredas,si
+13,17,28,"mar, lag",no
+13,17,28,tren (vi,no
+13,17,28,avión (v,no
+13,17,28,"otro, cu",no
+13,18,4,carreter,si
+13,18,4,carreter,si
+13,18,4,camino d,no
+13,18,4,veredas,no
+13,18,4,"mar, lag",no
+13,18,4,tren (vi,no
+13,18,4,avión (v,no
+13,18,4,"otro, cu",no
+13,18,5,carreter,no
+13,18,5,carreter,si
+13,18,5,camino d,si
+13,18,5,veredas,no
+13,18,5,"mar, lag",no
+13,18,5,tren (vi,no
+13,18,5,avión (v,no
+13,18,5,"otro, cu",no
+13,18,9,carreter,si
+13,18,9,carreter,no
+13,18,9,camino d,no
+13,18,9,veredas,si
+13,18,9,"mar, lag",no
+13,18,9,tren (vi,no
+13,18,9,avión (v,no
+13,18,9,"otro, cu",no
+13,18,10,carreter,si
+13,18,10,carreter,no
+13,18,10,camino d,no
+13,18,10,veredas,si
+13,18,10,"mar, lag",no
+13,18,10,tren (vi,no
+13,18,10,avión (v,no
+13,18,10,"otro, cu",no
+13,18,17,carreter,no
+13,18,17,carreter,no
+13,18,17,camino d,si
+13,18,17,veredas,si
+13,18,17,"mar, lag",no
+13,18,17,tren (vi,no
+13,18,17,avión (v,no
+13,18,17,"otro, cu",no
+13,20,1,carreter,no
+13,20,1,carreter,no
+13,20,1,camino d,no
+13,20,1,veredas,si
+13,20,1,"mar, lag",no
+13,20,1,tren (vi,no
+13,20,1,avión (v,no
+13,20,1,"otro, cu",no
+13,20,13,carreter,no
+13,20,13,carreter,si
+13,20,13,camino d,no
+13,20,13,veredas,si
+13,20,13,"mar, lag",no
+13,20,13,tren (vi,no
+13,20,13,avión (v,no
+13,20,13,"otro, cu",no
+13,21,2,carreter,no
+13,21,2,carreter,no
+13,21,2,camino d,si
+13,21,2,veredas,si
+13,21,2,"mar, lag",no
+13,21,2,tren (vi,no
+13,21,2,avión (v,no
+13,21,2,"otro, cu",no
+13,22,2,carreter,si
+13,22,2,carreter,si
+13,22,2,camino d,si
+13,22,2,veredas,si
+13,22,2,"mar, lag",no
+13,22,2,tren (vi,no
+13,22,2,avión (v,no
+13,22,2,"otro, cu",no
+13,22,7,carreter,no
+13,22,7,carreter,si
+13,22,7,camino d,no
+13,22,7,veredas,si
+13,22,7,"mar, lag",no
+13,22,7,tren (vi,no
+13,22,7,avión (v,no
+13,22,7,"otro, cu",no
+13,24,1,carreter,no
+13,24,1,carreter,si
+13,24,1,camino d,si
+13,24,1,veredas,si
+13,24,1,"mar, lag",no
+13,24,1,tren (vi,no
+13,24,1,avión (v,no
+13,24,1,"otro, cu",no
+13,24,4,carreter,no
+13,24,4,carreter,si
+13,24,4,camino d,si
+13,24,4,veredas,si
+13,24,4,"mar, lag",no
+13,24,4,tren (vi,no
+13,24,4,avión (v,no
+13,24,4,"otro, cu",no
+13,24,5,carreter,no
+13,24,5,carreter,si
+13,24,5,camino d,si
+13,24,5,veredas,si
+13,24,5,"mar, lag",no
+13,24,5,tren (vi,no
+13,24,5,avión (v,no
+13,24,5,"otro, cu",no
+13,26,28,carreter,si
+13,26,28,carreter,no
+13,26,28,camino d,no
+13,26,28,veredas,si
+13,26,28,"mar, lag",no
+13,26,28,tren (vi,no
+13,26,28,avión (v,no
+13,26,28,"otro, cu",no
+13,26,33,carreter,no
+13,26,33,carreter,si
+13,26,33,camino d,no
+13,26,33,veredas,si
+13,26,33,"mar, lag",si
+13,26,33,tren (vi,no
+13,26,33,avión (v,no
+13,26,33,"otro, cu",no
+13,26,41,carreter,si
+13,26,41,carreter,no
+13,26,41,camino d,no
+13,26,41,veredas,si
+13,26,41,"mar, lag",no
+13,26,41,tren (vi,no
+13,26,41,avión (v,no
+13,26,41,"otro, cu",no
+13,26,46,carreter,no
+13,26,46,carreter,si
+13,26,46,camino d,si
+13,26,46,veredas,si
+13,26,46,"mar, lag",no
+13,26,46,tren (vi,no
+13,26,46,avión (v,no
+13,26,46,"otro, cu",no
+13,26,47,carreter,si
+13,26,47,carreter,no
+13,26,47,camino d,si
+13,26,47,veredas,si
+13,26,47,"mar, lag",no
+13,26,47,tren (vi,no
+13,26,47,avión (v,no
+13,26,47,"otro, cu",no
+13,26,49,carreter,no
+13,26,49,carreter,no
+13,26,49,camino d,si
+13,26,49,veredas,si
+13,26,49,"mar, lag",no
+13,26,49,tren (vi,no
+13,26,49,avión (v,no
+13,26,49,"otro, cu",no
+13,27,9,carreter,no
+13,27,9,carreter,no
+13,27,9,camino d,no
+13,27,9,veredas,si
+13,27,9,"mar, lag",no
+13,27,9,tren (vi,no
+13,27,9,avión (v,no
+13,27,9,"otro, cu",no
+13,27,26,carreter,no
+13,27,26,carreter,si
+13,27,26,camino d,si
+13,27,26,veredas,no
+13,27,26,"mar, lag",no
+13,27,26,tren (vi,no
+13,27,26,avión (v,no
+13,27,26,"otro, cu",no
+13,30,8,carreter,no
+13,30,8,carreter,no
+13,30,8,camino d,si
+13,30,8,veredas,si
+13,30,8,"mar, lag",no
+13,30,8,tren (vi,no
+13,30,8,avión (v,no
+13,30,8,"otro, cu",no
+13,30,11,carreter,no
+13,30,11,carreter,si
+13,30,11,camino d,no
+13,30,11,veredas,si
+13,30,11,"mar, lag",no
+13,30,11,tren (vi,no
+13,30,11,avión (v,no
+13,30,11,"otro, cu",no
+13,31,6,carreter,no
+13,31,6,carreter,si
+13,31,6,camino d,si
+13,31,6,veredas,si
+13,31,6,"mar, lag",si
+13,31,6,tren (vi,no
+13,31,6,avión (v,no
+13,31,6,"otro, cu",no
+14,1,14,carreter,si
+14,1,14,carreter,si
+14,1,14,camino d,no
+14,1,14,veredas,no
+14,1,14,"mar, lag",no
+14,1,14,tren (vi,no
+14,1,14,avión (v,no
+14,1,14,"otro, cu",no
+14,1,27,carreter,si
+14,1,27,carreter,si
+14,1,27,camino d,no
+14,1,27,veredas,si
+14,1,27,"mar, lag",no
+14,1,27,tren (vi,no
+14,1,27,avión (v,no
+14,1,27,"otro, cu",no
+14,1,50,carreter,no
+14,1,50,carreter,si
+14,1,50,camino d,no
+14,1,50,veredas,si
+14,1,50,"mar, lag",no
+14,1,50,tren (vi,no
+14,1,50,avión (v,no
+14,1,50,"otro, cu",no
+14,1,60,carreter,no
+14,1,60,carreter,si
+14,1,60,camino d,no
+14,1,60,veredas,si
+14,1,60,"mar, lag",no
+14,1,60,tren (vi,no
+14,1,60,avión (v,no
+14,1,60,"otro, cu",no
+14,1,72,carreter,no
+14,1,72,carreter,si
+14,1,72,camino d,no
+14,1,72,veredas,si
+14,1,72,"mar, lag",no
+14,1,72,tren (vi,no
+14,1,72,avión (v,no
+14,1,72,"otro, cu",no
+14,2,9,carreter,no
+14,2,9,carreter,si
+14,2,9,camino d,no
+14,2,9,veredas,si
+14,2,9,"mar, lag",no
+14,2,9,tren (vi,no
+14,2,9,avión (v,no
+14,2,9,"otro, cu",no
+14,3,1,carreter,si
+14,3,1,carreter,si
+14,3,1,camino d,no
+14,3,1,veredas,no
+14,3,1,"mar, lag",no
+14,3,1,tren (vi,no
+14,3,1,avión (v,no
+14,3,1,"otro, cu",no
+14,4,1,carreter,si
+14,4,1,carreter,si
+14,4,1,camino d,no
+14,4,1,veredas,si
+14,4,1,"mar, lag",no
+14,4,1,tren (vi,no
+14,4,1,avión (v,no
+14,4,1,"otro, cu",no
+14,4,7,carreter,no
+14,4,7,carreter,si
+14,4,7,camino d,no
+14,4,7,veredas,si
+14,4,7,"mar, lag",no
+14,4,7,tren (vi,no
+14,4,7,avión (v,no
+14,4,7,"otro, cu",no
+14,6,3,carreter,si
+14,6,3,carreter,si
+14,6,3,camino d,no
+14,6,3,veredas,no
+14,6,3,"mar, lag",no
+14,6,3,tren (vi,no
+14,6,3,avión (v,no
+14,6,3,"otro, cu",no
+14,6,27,carreter,no
+14,6,27,carreter,si
+14,6,27,camino d,no
+14,6,27,veredas,si
+14,6,27,"mar, lag",no
+14,6,27,tren (vi,no
+14,6,27,avión (v,no
+14,6,27,"otro, cu",no
+14,6,57,carreter,no
+14,6,57,carreter,si
+14,6,57,camino d,no
+14,6,57,veredas,si
+14,6,57,"mar, lag",no
+14,6,57,tren (vi,no
+14,6,57,avión (v,no
+14,6,57,"otro, cu",no
+14,6,60,carreter,si
+14,6,60,carreter,no
+14,6,60,camino d,no
+14,6,60,veredas,si
+14,6,60,"mar, lag",no
+14,6,60,tren (vi,no
+14,6,60,avión (v,no
+14,6,60,"otro, cu",no
+14,6,85,carreter,si
+14,6,85,carreter,no
+14,6,85,camino d,no
+14,6,85,veredas,si
+14,6,85,"mar, lag",no
+14,6,85,tren (vi,no
+14,6,85,avión (v,no
+14,6,85,"otro, cu",no
+14,6,100,carreter,no
+14,6,100,carreter,si
+14,6,100,camino d,no
+14,6,100,veredas,si
+14,6,100,"mar, lag",no
+14,6,100,tren (vi,no
+14,6,100,avión (v,no
+14,6,100,"otro, cu",no
+14,11,2,carreter,no
+14,11,2,carreter,si
+14,11,2,camino d,no
+14,11,2,veredas,si
+14,11,2,"mar, lag",no
+14,11,2,tren (vi,no
+14,11,2,avión (v,no
+14,11,2,"otro, cu",no
+14,11,7,carreter,no
+14,11,7,carreter,no
+14,11,7,camino d,si
+14,11,7,veredas,si
+14,11,7,"mar, lag",no
+14,11,7,tren (vi,no
+14,11,7,avión (v,no
+14,11,7,"otro, cu",no
+14,12,3,carreter,no
+14,12,3,carreter,si
+14,12,3,camino d,no
+14,12,3,veredas,si
+14,12,3,"mar, lag",no
+14,12,3,tren (vi,no
+14,12,3,avión (v,no
+14,12,3,"otro, cu",si
+14,13,11,carreter,no
+14,13,11,carreter,si
+14,13,11,camino d,no
+14,13,11,veredas,si
+14,13,11,"mar, lag",no
+14,13,11,tren (vi,no
+14,13,11,avión (v,no
+14,13,11,"otro, cu",no
+14,13,21,carreter,si
+14,13,21,carreter,no
+14,13,21,camino d,no
+14,13,21,veredas,si
+14,13,21,"mar, lag",no
+14,13,21,tren (vi,no
+14,13,21,avión (v,no
+14,13,21,"otro, cu",no
+14,13,22,carreter,no
+14,13,22,carreter,no
+14,13,22,camino d,si
+14,13,22,veredas,si
+14,13,22,"mar, lag",no
+14,13,22,tren (vi,no
+14,13,22,avión (v,no
+14,13,22,"otro, cu",no
+14,13,27,carreter,no
+14,13,27,carreter,no
+14,13,27,camino d,si
+14,13,27,veredas,si
+14,13,27,"mar, lag",no
+14,13,27,tren (vi,no
+14,13,27,avión (v,no
+14,13,27,"otro, cu",no
+14,14,3,carreter,no
+14,14,3,carreter,si
+14,14,3,camino d,no
+14,14,3,veredas,si
+14,14,3,"mar, lag",no
+14,14,3,tren (vi,no
+14,14,3,avión (v,no
+14,14,3,"otro, cu",no
+14,15,9,carreter,no
+14,15,9,carreter,si
+14,15,9,camino d,no
+14,15,9,veredas,si
+14,15,9,"mar, lag",no
+14,15,9,tren (vi,no
+14,15,9,avión (v,no
+14,15,9,"otro, cu",no
+14,16,5,carreter,no
+14,16,5,carreter,no
+14,16,5,camino d,no
+14,16,5,veredas,si
+14,16,5,"mar, lag",no
+14,16,5,tren (vi,no
+14,16,5,avión (v,no
+14,16,5,"otro, cu",no
+14,16,28,carreter,no
+14,16,28,carreter,si
+14,16,28,camino d,no
+14,16,28,veredas,si
+14,16,28,"mar, lag",no
+14,16,28,tren (vi,no
+14,16,28,avión (v,no
+14,16,28,"otro, cu",no
+14,19,3,carreter,si
+14,19,3,carreter,no
+14,19,3,camino d,no
+14,19,3,veredas,si
+14,19,3,"mar, lag",no
+14,19,3,tren (vi,no
+14,19,3,avión (v,no
+14,19,3,"otro, cu",no
+15,1,5,carreter,si
+15,1,5,carreter,si
+15,1,5,camino d,no
+15,1,5,veredas,no
+15,1,5,"mar, lag",no
+15,1,5,tren (vi,no
+15,1,5,avión (v,no
+15,1,5,"otro, cu",no
+15,1,9,carreter,si
+15,1,9,carreter,si
+15,1,9,camino d,no
+15,1,9,veredas,no
+15,1,9,"mar, lag",no
+15,1,9,tren (vi,no
+15,1,9,avión (v,no
+15,1,9,"otro, cu",no
+15,1,37,carreter,no
+15,1,37,carreter,si
+15,1,37,camino d,no
+15,1,37,veredas,no
+15,1,37,"mar, lag",no
+15,1,37,tren (vi,no
+15,1,37,avión (v,no
+15,1,37,"otro, cu",no
+15,2,16,carreter,no
+15,2,16,carreter,si
+15,2,16,camino d,si
+15,2,16,veredas,si
+15,2,16,"mar, lag",no
+15,2,16,tren (vi,no
+15,2,16,avión (v,no
+15,2,16,"otro, cu",no
+15,3,2,carreter,si
+15,3,2,carreter,no
+15,3,2,camino d,no
+15,3,2,veredas,si
+15,3,2,"mar, lag",no
+15,3,2,tren (vi,no
+15,3,2,avión (v,no
+15,3,2,"otro, cu",no
+15,3,7,carreter,si
+15,3,7,carreter,si
+15,3,7,camino d,no
+15,3,7,veredas,no
+15,3,7,"mar, lag",no
+15,3,7,tren (vi,no
+15,3,7,avión (v,no
+15,3,7,"otro, cu",no
+15,3,23,carreter,no
+15,3,23,carreter,si
+15,3,23,camino d,no
+15,3,23,veredas,si
+15,3,23,"mar, lag",no
+15,3,23,tren (vi,no
+15,3,23,avión (v,no
+15,3,23,"otro, cu",no
+15,3,25,carreter,no
+15,3,25,carreter,si
+15,3,25,camino d,no
+15,3,25,veredas,si
+15,3,25,"mar, lag",no
+15,3,25,tren (vi,no
+15,3,25,avión (v,no
+15,3,25,"otro, cu",no
+15,4,1,carreter,no
+15,4,1,carreter,no
+15,4,1,camino d,no
+15,4,1,veredas,no
+15,4,1,"mar, lag",no
+15,4,1,tren (vi,no
+15,4,1,avión (v,no
+15,4,1,"otro, cu",si
+15,4,13,carreter,no
+15,4,13,carreter,si
+15,4,13,camino d,si
+15,4,13,veredas,si
+15,4,13,"mar, lag",no
+15,4,13,tren (vi,no
+15,4,13,avión (v,no
+15,4,13,"otro, cu",no
+15,5,2,carreter,no
+15,5,2,carreter,si
+15,5,2,camino d,no
+15,5,2,veredas,si
+15,5,2,"mar, lag",no
+15,5,2,tren (vi,no
+15,5,2,avión (v,no
+15,5,2,"otro, cu",no
+15,5,5,carreter,si
+15,5,5,carreter,no
+15,5,5,camino d,no
+15,5,5,veredas,si
+15,5,5,"mar, lag",no
+15,5,5,tren (vi,no
+15,5,5,avión (v,no
+15,5,5,"otro, cu",no
+15,6,2,carreter,no
+15,6,2,carreter,si
+15,6,2,camino d,no
+15,6,2,veredas,no
+15,6,2,"mar, lag",no
+15,6,2,tren (vi,no
+15,6,2,avión (v,no
+15,6,2,"otro, cu",no
+15,6,2,carreter,si
+15,6,2,carreter,no
+15,6,2,camino d,no
+15,6,2,veredas,si
+15,6,2,"mar, lag",no
+15,6,2,tren (vi,no
+15,6,2,avión (v,no
+15,6,2,"otro, cu",no
+15,7,1,carreter,si
+15,7,1,carreter,no
+15,7,1,camino d,no
+15,7,1,veredas,no
+15,7,1,"mar, lag",no
+15,7,1,tren (vi,no
+15,7,1,avión (v,no
+15,7,1,"otro, cu",no
+15,7,3,carreter,si
+15,7,3,carreter,si
+15,7,3,camino d,no
+15,7,3,veredas,si
+15,7,3,"mar, lag",no
+15,7,3,tren (vi,no
+15,7,3,avión (v,no
+15,7,3,"otro, cu",no
+15,7,10,carreter,si
+15,7,10,carreter,si
+15,7,10,camino d,no
+15,7,10,veredas,no
+15,7,10,"mar, lag",no
+15,7,10,tren (vi,no
+15,7,10,avión (v,no
+15,7,10,"otro, cu",no
+15,8,5,carreter,no
+15,8,5,carreter,si
+15,8,5,camino d,no
+15,8,5,veredas,si
+15,8,5,"mar, lag",no
+15,8,5,tren (vi,no
+15,8,5,avión (v,no
+15,8,5,"otro, cu",no
+15,8,25,carreter,no
+15,8,25,carreter,no
+15,8,25,camino d,si
+15,8,25,veredas,si
+15,8,25,"mar, lag",si
+15,8,25,tren (vi,no
+15,8,25,avión (v,no
+15,8,25,"otro, cu",no
+16,1,1,carreter,si
+16,1,1,carreter,si
+16,1,1,camino d,no
+16,1,1,veredas,no
+16,1,1,"mar, lag",no
+16,1,1,tren (vi,no
+16,1,1,avión (v,si
+16,1,1,"otro, cu",no
+16,1,5,carreter,si
+16,1,5,carreter,no
+16,1,5,camino d,no
+16,1,5,veredas,no
+16,1,5,"mar, lag",no
+16,1,5,tren (vi,no
+16,1,5,avión (v,no
+16,1,5,"otro, cu",no
+16,1,6,carreter,si
+16,1,6,carreter,si
+16,1,6,camino d,no
+16,1,6,veredas,no
+16,1,6,"mar, lag",si
+16,1,6,tren (vi,no
+16,1,6,avión (v,no
+16,1,6,"otro, cu",no
+16,1,8,carreter,si
+16,1,8,carreter,no
+16,1,8,camino d,no
+16,1,8,veredas,si
+16,1,8,"mar, lag",no
+16,1,8,tren (vi,no
+16,1,8,avión (v,no
+16,1,8,"otro, cu",no
+16,1,16,carreter,si
+16,1,16,carreter,si
+16,1,16,camino d,no
+16,1,16,veredas,no
+16,1,16,"mar, lag",no
+16,1,16,tren (vi,no
+16,1,16,avión (v,no
+16,1,16,"otro, cu",no
+16,1,25,carreter,si
+16,1,25,carreter,si
+16,1,25,camino d,no
+16,1,25,veredas,si
+16,1,25,"mar, lag",no
+16,1,25,tren (vi,no
+16,1,25,avión (v,no
+16,1,25,"otro, cu",no
+16,1,28,carreter,si
+16,1,28,carreter,si
+16,1,28,camino d,no
+16,1,28,veredas,no
+16,1,28,"mar, lag",no
+16,1,28,tren (vi,no
+16,1,28,avión (v,no
+16,1,28,"otro, cu",no
+16,1,30,carreter,si
+16,1,30,carreter,no
+16,1,30,camino d,no
+16,1,30,veredas,no
+16,1,30,"mar, lag",no
+16,1,30,tren (vi,no
+16,1,30,avión (v,no
+16,1,30,"otro, cu",no
+16,1,33,carreter,no
+16,1,33,carreter,si
+16,1,33,camino d,no
+16,1,33,veredas,no
+16,1,33,"mar, lag",no
+16,1,33,tren (vi,no
+16,1,33,avión (v,no
+16,1,33,"otro, cu",no
+16,1,63,carreter,no
+16,1,63,carreter,si
+16,1,63,camino d,no
+16,1,63,veredas,si
+16,1,63,"mar, lag",no
+16,1,63,tren (vi,no
+16,1,63,avión (v,no
+16,1,63,"otro, cu",no
+16,1,98,carreter,no
+16,1,98,carreter,si
+16,1,98,camino d,no
+16,1,98,veredas,si
+16,1,98,"mar, lag",no
+16,1,98,tren (vi,no
+16,1,98,avión (v,no
+16,1,98,"otro, cu",no
+16,1,100,carreter,no
+16,1,100,carreter,si
+16,1,100,camino d,si
+16,1,100,veredas,si
+16,1,100,"mar, lag",no
+16,1,100,tren (vi,no
+16,1,100,avión (v,no
+16,1,100,"otro, cu",no
+16,1,102,carreter,si
+16,1,102,carreter,no
+16,1,102,camino d,no
+16,1,102,veredas,no
+16,1,102,"mar, lag",no
+16,1,102,tren (vi,no
+16,1,102,avión (v,no
+16,1,102,"otro, cu",no
+16,3,2,carreter,si
+16,3,2,carreter,si
+16,3,2,camino d,no
+16,3,2,veredas,no
+16,3,2,"mar, lag",no
+16,3,2,tren (vi,no
+16,3,2,avión (v,no
+16,3,2,"otro, cu",no
+16,3,7,carreter,si
+16,3,7,carreter,si
+16,3,7,camino d,si
+16,3,7,veredas,si
+16,3,7,"mar, lag",no
+16,3,7,tren (vi,no
+16,3,7,avión (v,no
+16,3,7,"otro, cu",no
+16,3,14,carreter,no
+16,3,14,carreter,si
+16,3,14,camino d,no
+16,3,14,veredas,no
+16,3,14,"mar, lag",no
+16,3,14,tren (vi,no
+16,3,14,avión (v,no
+16,3,14,"otro, cu",no
+16,3,16,carreter,no
+16,3,16,carreter,si
+16,3,16,camino d,si
+16,3,16,veredas,si
+16,3,16,"mar, lag",no
+16,3,16,tren (vi,no
+16,3,16,avión (v,no
+16,3,16,"otro, cu",no
+16,3,19,carreter,no
+16,3,19,carreter,si
+16,3,19,camino d,si
+16,3,19,veredas,si
+16,3,19,"mar, lag",no
+16,3,19,tren (vi,no
+16,3,19,avión (v,no
+16,3,19,"otro, cu",no
+16,3,31,carreter,no
+16,3,31,carreter,si
+16,3,31,camino d,si
+16,3,31,veredas,si
+16,3,31,"mar, lag",no
+16,3,31,tren (vi,no
+16,3,31,avión (v,no
+16,3,31,"otro, cu",no
+16,5,6,carreter,si
+16,5,6,carreter,no
+16,5,6,camino d,no
+16,5,6,veredas,si
+16,5,6,"mar, lag",no
+16,5,6,tren (vi,no
+16,5,6,avión (v,no
+16,5,6,"otro, cu",no
+16,6,1,carreter,no
+16,6,1,carreter,si
+16,6,1,camino d,no
+16,6,1,veredas,no
+16,6,1,"mar, lag",no
+16,6,1,tren (vi,no
+16,6,1,avión (v,no
+16,6,1,"otro, cu",no
+16,6,4,carreter,no
+16,6,4,carreter,si
+16,6,4,camino d,no
+16,6,4,veredas,no
+16,6,4,"mar, lag",no
+16,6,4,tren (vi,no
+16,6,4,avión (v,no
+16,6,4,"otro, cu",no
+16,6,9,carreter,no
+16,6,9,carreter,si
+16,6,9,camino d,no
+16,6,9,veredas,no
+16,6,9,"mar, lag",no
+16,6,9,tren (vi,no
+16,6,9,avión (v,no
+16,6,9,"otro, cu",no
+16,7,1,carreter,no
+16,7,1,carreter,si
+16,7,1,camino d,no
+16,7,1,veredas,si
+16,7,1,"mar, lag",no
+16,7,1,tren (vi,no
+16,7,1,avión (v,no
+16,7,1,"otro, cu",no
+16,7,28,carreter,no
+16,7,28,carreter,si
+16,7,28,camino d,no
+16,7,28,veredas,si
+16,7,28,"mar, lag",no
+16,7,28,tren (vi,no
+16,7,28,avión (v,no
+16,7,28,"otro, cu",no
+16,7,40,carreter,si
+16,7,40,carreter,no
+16,7,40,camino d,no
+16,7,40,veredas,si
+16,7,40,"mar, lag",no
+16,7,40,tren (vi,no
+16,7,40,avión (v,no
+16,7,40,"otro, cu",no
+16,7,67,carreter,no
+16,7,67,carreter,si
+16,7,67,camino d,no
+16,7,67,veredas,no
+16,7,67,"mar, lag",no
+16,7,67,tren (vi,no
+16,7,67,avión (v,no
+16,7,67,"otro, cu",no
+16,8,11,carreter,si
+16,8,11,carreter,no
+16,8,11,camino d,no
+16,8,11,veredas,si
+16,8,11,"mar, lag",no
+16,8,11,tren (vi,no
+16,8,11,avión (v,no
+16,8,11,"otro, cu",no
+16,8,18,carreter,no
+16,8,18,carreter,si
+16,8,18,camino d,no
+16,8,18,veredas,si
+16,8,18,"mar, lag",no
+16,8,18,tren (vi,no
+16,8,18,avión (v,no
+16,8,18,"otro, cu",no
+16,8,19,carreter,no
+16,8,19,carreter,no
+16,8,19,camino d,no
+16,8,19,veredas,si
+16,8,19,"mar, lag",no
+16,8,19,tren (vi,no
+16,8,19,avión (v,no
+16,8,19,"otro, cu",no
+16,8,28,carreter,si
+16,8,28,carreter,no
+16,8,28,camino d,no
+16,8,28,veredas,si
+16,8,28,"mar, lag",no
+16,8,28,tren (vi,no
+16,8,28,avión (v,no
+16,8,28,"otro, cu",no
+16,8,38,carreter,no
+16,8,38,carreter,no
+16,8,38,camino d,no
+16,8,38,veredas,si
+16,8,38,"mar, lag",no
+16,8,38,tren (vi,no
+16,8,38,avión (v,no
+16,8,38,"otro, cu",no
+16,9,1,carreter,si
+16,9,1,carreter,no
+16,9,1,camino d,no
+16,9,1,veredas,no
+16,9,1,"mar, lag",no
+16,9,1,tren (vi,no
+16,9,1,avión (v,no
+16,9,1,"otro, cu",no
+16,9,3,carreter,si
+16,9,3,carreter,no
+16,9,3,camino d,no
+16,9,3,veredas,no
+16,9,3,"mar, lag",no
+16,9,3,tren (vi,no
+16,9,3,avión (v,no
+16,9,3,"otro, cu",no
+16,9,53,carreter,no
+16,9,53,carreter,si
+16,9,53,camino d,no
+16,9,53,veredas,si
+16,9,53,"mar, lag",no
+16,9,53,tren (vi,no
+16,9,53,avión (v,no
+16,9,53,"otro, cu",no
+16,9,67,carreter,no
+16,9,67,carreter,si
+16,9,67,camino d,no
+16,9,67,veredas,si
+16,9,67,"mar, lag",no
+16,9,67,tren (vi,no
+16,9,67,avión (v,no
+16,9,67,"otro, cu",no
+16,9,73,carreter,no
+16,9,73,carreter,si
+16,9,73,camino d,no
+16,9,73,veredas,si
+16,9,73,"mar, lag",no
+16,9,73,tren (vi,no
+16,9,73,avión (v,no
+16,9,73,"otro, cu",no
+16,9,110,carreter,no
+16,9,110,carreter,no
+16,9,110,camino d,no
+16,9,110,veredas,si
+16,9,110,"mar, lag",no
+16,9,110,tren (vi,no
+16,9,110,avión (v,no
+16,9,110,"otro, cu",no
+16,10,3,carreter,si
+16,10,3,carreter,si
+16,10,3,camino d,si
+16,10,3,veredas,si
+16,10,3,"mar, lag",no
+16,10,3,tren (vi,no
+16,10,3,avión (v,no
+16,10,3,"otro, cu",no
+16,11,3,carreter,no
+16,11,3,carreter,no
+16,11,3,camino d,no
+16,11,3,veredas,si
+16,11,3,"mar, lag",no
+16,11,3,tren (vi,no
+16,11,3,avión (v,no
+16,11,3,"otro, cu",no
+16,12,3,carreter,no
+16,12,3,carreter,si
+16,12,3,camino d,no
+16,12,3,veredas,si
+16,12,3,"mar, lag",no
+16,12,3,tren (vi,no
+16,12,3,avión (v,no
+16,12,3,"otro, cu",no
+16,12,14,carreter,no
+16,12,14,carreter,si
+16,12,14,camino d,no
+16,12,14,veredas,si
+16,12,14,"mar, lag",no
+16,12,14,tren (vi,no
+16,12,14,avión (v,no
+16,12,14,"otro, cu",no
+16,13,27,carreter,no
+16,13,27,carreter,no
+16,13,27,camino d,no
+16,13,27,veredas,si
+16,13,27,"mar, lag",no
+16,13,27,tren (vi,no
+16,13,27,avión (v,no
+16,13,27,"otro, cu",no
+16,13,33,carreter,no
+16,13,33,carreter,si
+16,13,33,camino d,no
+16,13,33,veredas,si
+16,13,33,"mar, lag",no
+16,13,33,tren (vi,no
+16,13,33,avión (v,no
+16,13,33,"otro, cu",no
+17,1,2,carreter,si
+17,1,2,carreter,no
+17,1,2,camino d,no
+17,1,2,veredas,no
+17,1,2,"mar, lag",si
+17,1,2,tren (vi,no
+17,1,2,avión (v,no
+17,1,2,"otro, cu",no
+17,1,9,carreter,si
+17,1,9,carreter,no
+17,1,9,camino d,no
+17,1,9,veredas,no
+17,1,9,"mar, lag",no
+17,1,9,tren (vi,no
+17,1,9,avión (v,no
+17,1,9,"otro, cu",no
+17,1,20,carreter,si
+17,1,20,carreter,si
+17,1,20,camino d,no
+17,1,20,veredas,no
+17,1,20,"mar, lag",no
+17,1,20,tren (vi,no
+17,1,20,avión (v,no
+17,1,20,"otro, cu",no
+17,1,23,carreter,si
+17,1,23,carreter,no
+17,1,23,camino d,no
+17,1,23,veredas,no
+17,1,23,"mar, lag",no
+17,1,23,tren (vi,no
+17,1,23,avión (v,no
+17,1,23,"otro, cu",si
+17,3,23,carreter,si
+17,3,23,carreter,si
+17,3,23,camino d,no
+17,3,23,veredas,no
+17,3,23,"mar, lag",no
+17,3,23,tren (vi,no
+17,3,23,avión (v,no
+17,3,23,"otro, cu",no
+17,4,10,carreter,no
+17,4,10,carreter,si
+17,4,10,camino d,no
+17,4,10,veredas,si
+17,4,10,"mar, lag",no
+17,4,10,tren (vi,no
+17,4,10,avión (v,no
+17,4,10,"otro, cu",no
+17,4,16,carreter,no
+17,4,16,carreter,no
+17,4,16,camino d,no
+17,4,16,veredas,si
+17,4,16,"mar, lag",si
+17,4,16,tren (vi,no
+17,4,16,avión (v,no
+17,4,16,"otro, cu",no
+17,5,9,carreter,no
+17,5,9,carreter,si
+17,5,9,camino d,si
+17,5,9,veredas,si
+17,5,9,"mar, lag",no
+17,5,9,tren (vi,no
+17,5,9,avión (v,no
+17,5,9,"otro, cu",no
+17,5,17,carreter,si
+17,5,17,carreter,no
+17,5,17,camino d,si
+17,5,17,veredas,si
+17,5,17,"mar, lag",no
+17,5,17,tren (vi,no
+17,5,17,avión (v,no
+17,5,17,"otro, cu",no
+17,5,31,carreter,si
+17,5,31,carreter,si
+17,5,31,camino d,si
+17,5,31,veredas,si
+17,5,31,"mar, lag",no
+17,5,31,tren (vi,no
+17,5,31,avión (v,no
+17,5,31,"otro, cu",no
+17,5,36,carreter,no
+17,5,36,carreter,si
+17,5,36,camino d,no
+17,5,36,veredas,si
+17,5,36,"mar, lag",si
+17,5,36,tren (vi,no
+17,5,36,avión (v,no
+17,5,36,"otro, cu",no
+17,5,41,carreter,si
+17,5,41,carreter,no
+17,5,41,camino d,no
+17,5,41,veredas,si
+17,5,41,"mar, lag",no
+17,5,41,tren (vi,no
+17,5,41,avión (v,no
+17,5,41,"otro, cu",no
+17,5,49,carreter,si
+17,5,49,carreter,si
+17,5,49,camino d,si
+17,5,49,veredas,si
+17,5,49,"mar, lag",no
+17,5,49,tren (vi,no
+17,5,49,avión (v,no
+17,5,49,"otro, cu",no
+17,5,53,carreter,no
+17,5,53,carreter,si
+17,5,53,camino d,si
+17,5,53,veredas,si
+17,5,53,"mar, lag",no
+17,5,53,tren (vi,no
+17,5,53,avión (v,no
+17,5,53,"otro, cu",no
+17,5,58,carreter,no
+17,5,58,carreter,si
+17,5,58,camino d,si
+17,5,58,veredas,si
+17,5,58,"mar, lag",no
+17,5,58,tren (vi,no
+17,5,58,avión (v,no
+17,5,58,"otro, cu",no
+17,5,62,carreter,si
+17,5,62,carreter,no
+17,5,62,camino d,si
+17,5,62,veredas,si
+17,5,62,"mar, lag",no
+17,5,62,tren (vi,no
+17,5,62,avión (v,no
+17,5,62,"otro, cu",no
+17,6,1,carreter,no
+17,6,1,carreter,si
+17,6,1,camino d,si
+17,6,1,veredas,no
+17,6,1,"mar, lag",no
+17,6,1,tren (vi,no
+17,6,1,avión (v,no
+17,6,1,"otro, cu",no
+17,6,3,carreter,si
+17,6,3,carreter,si
+17,6,3,camino d,no
+17,6,3,veredas,no
+17,6,3,"mar, lag",no
+17,6,3,tren (vi,no
+17,6,3,avión (v,no
+17,6,3,"otro, cu",no
+17,7,2,carreter,no
+17,7,2,carreter,si
+17,7,2,camino d,no
+17,7,2,veredas,no
+17,7,2,"mar, lag",no
+17,7,2,tren (vi,no
+17,7,2,avión (v,no
+17,7,2,"otro, cu",no
+17,7,5,carreter,no
+17,7,5,carreter,si
+17,7,5,camino d,no
+17,7,5,veredas,no
+17,7,5,"mar, lag",no
+17,7,5,tren (vi,no
+17,7,5,avión (v,no
+17,7,5,"otro, cu",no
+17,8,16,carreter,no
+17,8,16,carreter,si
+17,8,16,camino d,si
+17,8,16,veredas,si
+17,8,16,"mar, lag",si
+17,8,16,tren (vi,no
+17,8,16,avión (v,no
+17,8,16,"otro, cu",no
+17,8,25,carreter,si
+17,8,25,carreter,no
+17,8,25,camino d,si
+17,8,25,veredas,no
+17,8,25,"mar, lag",no
+17,8,25,tren (vi,no
+17,8,25,avión (v,no
+17,8,25,"otro, cu",no
+17,8,27,carreter,no
+17,8,27,carreter,si
+17,8,27,camino d,si
+17,8,27,veredas,si
+17,8,27,"mar, lag",no
+17,8,27,tren (vi,no
+17,8,27,avión (v,no
+17,8,27,"otro, cu",no
+17,8,35,carreter,no
+17,8,35,carreter,si
+17,8,35,camino d,si
+17,8,35,veredas,si
+17,8,35,"mar, lag",si
+17,8,35,tren (vi,no
+17,8,35,avión (v,no
+17,8,35,"otro, cu",no
+17,9,14,carreter,no
+17,9,14,carreter,si
+17,9,14,camino d,no
+17,9,14,veredas,si
+17,9,14,"mar, lag",no
+17,9,14,tren (vi,no
+17,9,14,avión (v,no
+17,9,14,"otro, cu",no
+17,9,33,carreter,no
+17,9,33,carreter,si
+17,9,33,camino d,no
+17,9,33,veredas,si
+17,9,33,"mar, lag",no
+17,9,33,tren (vi,no
+17,9,33,avión (v,no
+17,9,33,"otro, cu",no
+17,10,2,carreter,no
+17,10,2,carreter,si
+17,10,2,camino d,no
+17,10,2,veredas,no
+17,10,2,"mar, lag",no
+17,10,2,tren (vi,no
+17,10,2,avión (v,no
+17,10,2,"otro, cu",no
+17,10,8,carreter,si
+17,10,8,carreter,no
+17,10,8,camino d,si
+17,10,8,veredas,si
+17,10,8,"mar, lag",no
+17,10,8,tren (vi,no
+17,10,8,avión (v,no
+17,10,8,"otro, cu",no
+17,10,21,carreter,si
+17,10,21,carreter,no
+17,10,21,camino d,si
+17,10,21,veredas,si
+17,10,21,"mar, lag",si
+17,10,21,tren (vi,no
+17,10,21,avión (v,no
+17,10,21,"otro, cu",no
+17,10,31,carreter,si
+17,10,31,carreter,no
+17,10,31,camino d,no
+17,10,31,veredas,si
+17,10,31,"mar, lag",no
+17,10,31,tren (vi,no
+17,10,31,avión (v,no
+17,10,31,"otro, cu",no
+17,11,4,carreter,no
+17,11,4,carreter,si
+17,11,4,camino d,no
+17,11,4,veredas,no
+17,11,4,"mar, lag",no
+17,11,4,tren (vi,no
+17,11,4,avión (v,no
+17,11,4,"otro, cu",no
+17,11,7,carreter,si
+17,11,7,carreter,si
+17,11,7,camino d,si
+17,11,7,veredas,si
+17,11,7,"mar, lag",si
+17,11,7,tren (vi,no
+17,11,7,avión (v,no
+17,11,7,"otro, cu",no
+17,11,13,carreter,no
+17,11,13,carreter,si
+17,11,13,camino d,si
+17,11,13,veredas,no
+17,11,13,"mar, lag",no
+17,11,13,tren (vi,no
+17,11,13,avión (v,no
+17,11,13,"otro, cu",no
+17,12,12,carreter,si
+17,12,12,carreter,si
+17,12,12,camino d,si
+17,12,12,veredas,no
+17,12,12,"mar, lag",no
+17,12,12,tren (vi,no
+17,12,12,avión (v,si
+17,12,12,"otro, cu",no
+18,1,6,carreter,si
+18,1,6,carreter,si
+18,1,6,camino d,no
+18,1,6,veredas,no
+18,1,6,"mar, lag",si
+18,1,6,tren (vi,no
+18,1,6,avión (v,no
+18,1,6,"otro, cu",no
+18,1,11,carreter,si
+18,1,11,carreter,no
+18,1,11,camino d,no
+18,1,11,veredas,no
+18,1,11,"mar, lag",no
+18,1,11,tren (vi,no
+18,1,11,avión (v,no
+18,1,11,"otro, cu",no
+18,1,22,carreter,si
+18,1,22,carreter,si
+18,1,22,camino d,no
+18,1,22,veredas,no
+18,1,22,"mar, lag",no
+18,1,22,tren (vi,si
+18,1,22,avión (v,no
+18,1,22,"otro, cu",no
+18,1,28,carreter,no
+18,1,28,carreter,si
+18,1,28,camino d,no
+18,1,28,veredas,no
+18,1,28,"mar, lag",no
+18,1,28,tren (vi,si
+18,1,28,avión (v,no
+18,1,28,"otro, cu",no
+18,1,31,carreter,no
+18,1,31,carreter,si
+18,1,31,camino d,no
+18,1,31,veredas,no
+18,1,31,"mar, lag",no
+18,1,31,tren (vi,no
+18,1,31,avión (v,no
+18,1,31,"otro, cu",no
+18,1,49,carreter,no
+18,1,49,carreter,si
+18,1,49,camino d,si
+18,1,49,veredas,si
+18,1,49,"mar, lag",no
+18,1,49,tren (vi,no
+18,1,49,avión (v,no
+18,1,49,"otro, cu",no
+18,1,50,carreter,no
+18,1,50,carreter,no
+18,1,50,camino d,no
+18,1,50,veredas,no
+18,1,50,"mar, lag",si
+18,1,50,tren (vi,no
+18,1,50,avión (v,no
+18,1,50,"otro, cu",no
+18,1,85,carreter,no
+18,1,85,carreter,si
+18,1,85,camino d,no
+18,1,85,veredas,no
+18,1,85,"mar, lag",no
+18,1,85,tren (vi,no
+18,1,85,avión (v,no
+18,1,85,"otro, cu",no
+18,2,3,carreter,si
+18,2,3,carreter,no
+18,2,3,camino d,no
+18,2,3,veredas,no
+18,2,3,"mar, lag",no
+18,2,3,tren (vi,no
+18,2,3,avión (v,no
+18,2,3,"otro, cu",no
+18,2,17,carreter,no
+18,2,17,carreter,si
+18,2,17,camino d,no
+18,2,17,veredas,no
+18,2,17,"mar, lag",no
+18,2,17,tren (vi,no
+18,2,17,avión (v,no
+18,2,17,"otro, cu",no
+18,2,44,carreter,no
+18,2,44,carreter,no
+18,2,44,camino d,si
+18,2,44,veredas,si
+18,2,44,"mar, lag",si
+18,2,44,tren (vi,no
+18,2,44,avión (v,no
+18,2,44,"otro, cu",no
+18,3,1,carreter,no
+18,3,1,carreter,si
+18,3,1,camino d,no
+18,3,1,veredas,no
+18,3,1,"mar, lag",no
+18,3,1,tren (vi,no
+18,3,1,avión (v,no
+18,3,1,"otro, cu",no
+18,3,5,carreter,si
+18,3,5,carreter,no
+18,3,5,camino d,no
+18,3,5,veredas,no
+18,3,5,"mar, lag",no
+18,3,5,tren (vi,no
+18,3,5,avión (v,no
+18,3,5,"otro, cu",no
+18,3,9,carreter,no
+18,3,9,carreter,si
+18,3,9,camino d,no
+18,3,9,veredas,no
+18,3,9,"mar, lag",no
+18,3,9,tren (vi,no
+18,3,9,avión (v,no
+18,3,9,"otro, cu",no
+18,4,5,carreter,si
+18,4,5,carreter,si
+18,4,5,camino d,si
+18,4,5,veredas,no
+18,4,5,"mar, lag",no
+18,4,5,tren (vi,no
+18,4,5,avión (v,no
+18,4,5,"otro, cu",no
+18,4,32,carreter,no
+18,4,32,carreter,si
+18,4,32,camino d,si
+18,4,32,veredas,si
+18,4,32,"mar, lag",si
+18,4,32,tren (vi,no
+18,4,32,avión (v,no
+18,4,32,"otro, cu",no
+18,4,33,carreter,no
+18,4,33,carreter,si
+18,4,33,camino d,si
+18,4,33,veredas,no
+18,4,33,"mar, lag",no
+18,4,33,tren (vi,no
+18,4,33,avión (v,no
+18,4,33,"otro, cu",no
+18,5,2,carreter,si
+18,5,2,carreter,no
+18,5,2,camino d,no
+18,5,2,veredas,no
+18,5,2,"mar, lag",no
+18,5,2,tren (vi,no
+18,5,2,avión (v,no
+18,5,2,"otro, cu",no
+18,5,11,carreter,no
+18,5,11,carreter,si
+18,5,11,camino d,si
+18,5,11,veredas,no
+18,5,11,"mar, lag",no
+18,5,11,tren (vi,no
+18,5,11,avión (v,no
+18,5,11,"otro, cu",no
+18,5,59,carreter,no
+18,5,59,carreter,si
+18,5,59,camino d,no
+18,5,59,veredas,no
+18,5,59,"mar, lag",no
+18,5,59,tren (vi,no
+18,5,59,avión (v,no
+18,5,59,"otro, cu",no
+19,1,2,carreter,no
+19,1,2,carreter,no
+19,1,2,camino d,no
+19,1,2,veredas,no
+19,1,2,"mar, lag",no
+19,1,2,tren (vi,no
+19,1,2,avión (v,no
+19,1,2,"otro, cu",si
+19,1,5,carreter,si
+19,1,5,carreter,no
+19,1,5,camino d,no
+19,1,5,veredas,no
+19,1,5,"mar, lag",no
+19,1,5,tren (vi,no
+19,1,5,avión (v,no
+19,1,5,"otro, cu",no
+19,1,24,carreter,si
+19,1,24,carreter,no
+19,1,24,camino d,no
+19,1,24,veredas,no
+19,1,24,"mar, lag",no
+19,1,24,tren (vi,no
+19,1,24,avión (v,no
+19,1,24,"otro, cu",si
+19,1,30,carreter,no
+19,1,30,carreter,si
+19,1,30,camino d,si
+19,1,30,veredas,no
+19,1,30,"mar, lag",no
+19,1,30,tren (vi,no
+19,1,30,avión (v,no
+19,1,30,"otro, cu",no
+19,1,58,carreter,no
+19,1,58,carreter,si
+19,1,58,camino d,si
+19,1,58,veredas,si
+19,1,58,"mar, lag",no
+19,1,58,tren (vi,no
+19,1,58,avión (v,no
+19,1,58,"otro, cu",no
+19,4,5,carreter,si
+19,4,5,carreter,si
+19,4,5,camino d,no
+19,4,5,veredas,no
+19,4,5,"mar, lag",si
+19,4,5,tren (vi,si
+19,4,5,avión (v,no
+19,4,5,"otro, cu",no
+19,4,21,carreter,no
+19,4,21,carreter,si
+19,4,21,camino d,no
+19,4,21,veredas,no
+19,4,21,"mar, lag",no
+19,4,21,tren (vi,no
+19,4,21,avión (v,no
+19,4,21,"otro, cu",no
+19,9,2,carreter,si
+19,9,2,carreter,no
+19,9,2,camino d,no
+19,9,2,veredas,no
+19,9,2,"mar, lag",no
+19,9,2,tren (vi,no
+19,9,2,avión (v,no
+19,9,2,"otro, cu",no
+20,1,6,carreter,no
+20,1,6,carreter,si
+20,1,6,camino d,no
+20,1,6,veredas,si
+20,1,6,"mar, lag",no
+20,1,6,tren (vi,no
+20,1,6,avión (v,no
+20,1,6,"otro, cu",no
+20,1,60,carreter,si
+20,1,60,carreter,no
+20,1,60,camino d,no
+20,1,60,veredas,no
+20,1,60,"mar, lag",no
+20,1,60,tren (vi,no
+20,1,60,avión (v,no
+20,1,60,"otro, cu",no
+20,4,1,carreter,no
+20,4,1,carreter,no
+20,4,1,camino d,no
+20,4,1,veredas,no
+20,4,1,"mar, lag",no
+20,4,1,tren (vi,no
+20,4,1,avión (v,no
+20,4,1,"otro, cu",si
+20,5,3,carreter,no
+20,5,3,carreter,si
+20,5,3,camino d,si
+20,5,3,veredas,no
+20,5,3,"mar, lag",no
+20,5,3,tren (vi,no
+20,5,3,avión (v,no
+20,5,3,"otro, cu",no
+20,7,9,carreter,si
+20,7,9,carreter,si
+20,7,9,camino d,no
+20,7,9,veredas,si
+20,7,9,"mar, lag",no
+20,7,9,tren (vi,no
+20,7,9,avión (v,no
+20,7,9,"otro, cu",no
+20,7,23,carreter,si
+20,7,23,carreter,si
+20,7,23,camino d,no
+20,7,23,veredas,no
+20,7,23,"mar, lag",no
+20,7,23,tren (vi,no
+20,7,23,avión (v,no
+20,7,23,"otro, cu",no
+21,1,6,carreter,si
+21,1,6,carreter,si
+21,1,6,camino d,si
+21,1,6,veredas,no
+21,1,6,"mar, lag",no
+21,1,6,tren (vi,no
+21,1,6,avión (v,si
+21,1,6,"otro, cu",no
+21,1,14,carreter,no
+21,1,14,carreter,no
+21,1,14,camino d,si
+21,1,14,veredas,no
+21,1,14,"mar, lag",no
+21,1,14,tren (vi,no
+21,1,14,avión (v,no
+21,1,14,"otro, cu",no
+21,1,19,carreter,si
+21,1,19,carreter,no
+21,1,19,camino d,no
+21,1,19,veredas,no
+21,1,19,"mar, lag",no
+21,1,19,tren (vi,no
+21,1,19,avión (v,no
+21,1,19,"otro, cu",no
+21,1,26,carreter,no
+21,1,26,carreter,si
+21,1,26,camino d,si
+21,1,26,veredas,si
+21,1,26,"mar, lag",no
+21,1,26,tren (vi,no
+21,1,26,avión (v,no
+21,1,26,"otro, cu",no
+21,1,30,carreter,no
+21,1,30,carreter,si
+21,1,30,camino d,no
+21,1,30,veredas,si
+21,1,30,"mar, lag",no
+21,1,30,tren (vi,no
+21,1,30,avión (v,no
+21,1,30,"otro, cu",no
+21,1,39,carreter,no
+21,1,39,carreter,si
+21,1,39,camino d,si
+21,1,39,veredas,si
+21,1,39,"mar, lag",no
+21,1,39,tren (vi,no
+21,1,39,avión (v,no
+21,1,39,"otro, cu",no
+21,1,44,carreter,no
+21,1,44,carreter,si
+21,1,44,camino d,si
+21,1,44,veredas,si
+21,1,44,"mar, lag",si
+21,1,44,tren (vi,no
+21,1,44,avión (v,no
+21,1,44,"otro, cu",no
+21,1,52,carreter,si
+21,1,52,carreter,si
+21,1,52,camino d,si
+21,1,52,veredas,no
+21,1,52,"mar, lag",no
+21,1,52,tren (vi,no
+21,1,52,avión (v,no
+21,1,52,"otro, cu",no
+21,1,68,carreter,si
+21,1,68,carreter,no
+21,1,68,camino d,si
+21,1,68,veredas,si
+21,1,68,"mar, lag",no
+21,1,68,tren (vi,no
+21,1,68,avión (v,no
+21,1,68,"otro, cu",no
+21,1,92,carreter,no
+21,1,92,carreter,si
+21,1,92,camino d,si
+21,1,92,veredas,si
+21,1,92,"mar, lag",no
+21,1,92,tren (vi,no
+21,1,92,avión (v,no
+21,1,92,"otro, cu",no
+21,2,16,carreter,no
+21,2,16,carreter,si
+21,2,16,camino d,si
+21,2,16,veredas,si
+21,2,16,"mar, lag",no
+21,2,16,tren (vi,no
+21,2,16,avión (v,no
+21,2,16,"otro, cu",no
+21,2,22,carreter,no
+21,2,22,carreter,no
+21,2,22,camino d,si
+21,2,22,veredas,si
+21,2,22,"mar, lag",no
+21,2,22,tren (vi,no
+21,2,22,avión (v,no
+21,2,22,"otro, cu",no
+21,2,35,carreter,no
+21,2,35,carreter,no
+21,2,35,camino d,no
+21,2,35,veredas,si
+21,2,35,"mar, lag",no
+21,2,35,tren (vi,no
+21,2,35,avión (v,no
+21,2,35,"otro, cu",no
+21,3,1,carreter,no
+21,3,1,carreter,si
+21,3,1,camino d,no
+21,3,1,veredas,no
+21,3,1,"mar, lag",no
+21,3,1,tren (vi,no
+21,3,1,avión (v,no
+21,3,1,"otro, cu",no
+21,3,13,carreter,no
+21,3,13,carreter,si
+21,3,13,camino d,si
+21,3,13,veredas,si
+21,3,13,"mar, lag",no
+21,3,13,tren (vi,no
+21,3,13,avión (v,no
+21,3,13,"otro, cu",no
+21,3,22,carreter,no
+21,3,22,carreter,si
+21,3,22,camino d,si
+21,3,22,veredas,si
+21,3,22,"mar, lag",si
+21,3,22,tren (vi,no
+21,3,22,avión (v,no
+21,3,22,"otro, cu",no
+21,5,1,carreter,si
+21,5,1,carreter,si
+21,5,1,camino d,si
+21,5,1,veredas,si
+21,5,1,"mar, lag",si
+21,5,1,tren (vi,no
+21,5,1,avión (v,no
+21,5,1,"otro, cu",no
+21,5,7,carreter,no
+21,5,7,carreter,si
+21,5,7,camino d,si
+21,5,7,veredas,si
+21,5,7,"mar, lag",si
+21,5,7,tren (vi,no
+21,5,7,avión (v,no
+21,5,7,"otro, cu",no
+21,7,3,carreter,si
+21,7,3,carreter,si
+21,7,3,camino d,si
+21,7,3,veredas,si
+21,7,3,"mar, lag",no
+21,7,3,tren (vi,no
+21,7,3,avión (v,no
+21,7,3,"otro, cu",no
+22,1,11,carreter,no
+22,1,11,carreter,si
+22,1,11,camino d,no
+22,1,11,veredas,no
+22,1,11,"mar, lag",no
+22,1,11,tren (vi,no
+22,1,11,avión (v,no
+22,1,11,"otro, cu",no
+22,1,25,carreter,no
+22,1,25,carreter,si
+22,1,25,camino d,si
+22,1,25,veredas,si
+22,1,25,"mar, lag",no
+22,1,25,tren (vi,no
+22,1,25,avión (v,no
+22,1,25,"otro, cu",no
+22,1,47,carreter,no
+22,1,47,carreter,si
+22,1,47,camino d,si
+22,1,47,veredas,si
+22,1,47,"mar, lag",no
+22,1,47,tren (vi,no
+22,1,47,avión (v,no
+22,1,47,"otro, cu",no
+22,1,60,carreter,si
+22,1,60,carreter,no
+22,1,60,camino d,no
+22,1,60,veredas,si
+22,1,60,"mar, lag",no
+22,1,60,tren (vi,no
+22,1,60,avión (v,no
+22,1,60,"otro, cu",no
+22,1,75,carreter,no
+22,1,75,carreter,si
+22,1,75,camino d,si
+22,1,75,veredas,no
+22,1,75,"mar, lag",no
+22,1,75,tren (vi,no
+22,1,75,avión (v,no
+22,1,75,"otro, cu",no
+22,1,89,carreter,no
+22,1,89,carreter,si
+22,1,89,camino d,si
+22,1,89,veredas,si
+22,1,89,"mar, lag",no
+22,1,89,tren (vi,no
+22,1,89,avión (v,no
+22,1,89,"otro, cu",no
+22,1,111,carreter,no
+22,1,111,carreter,si
+22,1,111,camino d,no
+22,1,111,veredas,no
+22,1,111,"mar, lag",no
+22,1,111,tren (vi,no
+22,1,111,avión (v,no
+22,1,111,"otro, cu",no
+22,2,4,carreter,si
+22,2,4,carreter,si
+22,2,4,camino d,si
+22,2,4,veredas,no
+22,2,4,"mar, lag",no
+22,2,4,tren (vi,no
+22,2,4,avión (v,no
+22,2,4,"otro, cu",no
+22,3,27,carreter,no
+22,3,27,carreter,si
+22,3,27,camino d,no
+22,3,27,veredas,si
+22,3,27,"mar, lag",no
+22,3,27,tren (vi,no
+22,3,27,avión (v,no
+22,3,27,"otro, cu",no
+22,6,1,carreter,no
+22,6,1,carreter,si
+22,6,1,camino d,si
+22,6,1,veredas,si
+22,6,1,"mar, lag",no
+22,6,1,tren (vi,no
+22,6,1,avión (v,no
+22,6,1,"otro, cu",no
+22,11,7,carreter,no
+22,11,7,carreter,si
+22,11,7,camino d,si
+22,11,7,veredas,si
+22,11,7,"mar, lag",no
+22,11,7,tren (vi,no
+22,11,7,avión (v,no
+22,11,7,"otro, cu",no
+22,11,8,carreter,no
+22,11,8,carreter,si
+22,11,8,camino d,no
+22,11,8,veredas,si
+22,11,8,"mar, lag",no
+22,11,8,tren (vi,no
+22,11,8,avión (v,no
+22,11,8,"otro, cu",no
+22,13,4,carreter,no
+22,13,4,carreter,si
+22,13,4,camino d,no
+22,13,4,veredas,no
+22,13,4,"mar, lag",no
+22,13,4,tren (vi,no
+22,13,4,avión (v,no
+22,13,4,"otro, cu",no
