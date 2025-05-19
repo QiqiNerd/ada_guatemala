@@ -5,12 +5,19 @@ This repository contains the full workflow of a micro-level poverty analysis pro
 ## Repository Structure
 
 ├── cleaned_data/                      # Final cleaned datasets used in modeling
+
 ├── intermediate_data/                 # Intermediate merged/transformed files
+
 ├── metadata/                          # Variable dictionary and category mapping
+
 ├── raw_data/                          # Original LSMS (ENCOVI) survey files (.dta)
+
 ├── docs/                              # record steps of data cleaning
+
 └── scripts/
+
    ├── aggregate.ipynb                 # data cleaning (Python notebook)
+   
    └── guatemala_household_analysis.R  # Full R analysis script
 
 
