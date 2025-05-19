@@ -1,0 +1,172 @@
+0. Save Intermediate Data
+  Selected variables from multiple .dta modules were extracted and saved as intermediate .csv files.
+  •	The variable selection file (guatemala_variable_filtered_v3.csv) was filtered to keep only rows marked as included = yes.
+  In the following steps, I dealt with each module one by one, cleaned up and processed the missing values. Using "hhid" as the main key, I generated the corresponding "clean" file. A total of 14 csv files were processed and generated.
+
+1: Clean HOGARES – Main Table
+  •	Converted hhid and thogar to integer strings to ensure consistency in ID formatting.
+  •	Renamed the household weight column factor to hh_wgt.
+  •	Saved the cleaned table as HOGARES_cleaned.csv for downstream merging and analysis.
+
+2: Clean AUTOIDH – identification
+  •	Nothing needs to be cleaned
+
+3: Clean CONSUMO5 – Consumption
+  •	Converted agreg3 to per capita, per day consumption in 2017 USD PPP using a conversion factor of 0.6878405536 / 365 and created a new variable consumption_per_capita_per_day to store
+  •	Saved the cleaned file as CONSUMO5_cleaned.csv for further integration.
+
+4: Clean ECV01H01 – Housing Characteristics
+  •	Filled missing values in selected categorical variables with 'missing'.
+  •	Saved the cleaned table as ECV01H01_cleaned.csv.
+
+5: Clean ECV02H01 – Energy Source
+  •	Mapped original energy types and usage categories to standardized English labels.
+  •	Filled missing values in energy usage columns (p01b04a–p01b04d) with 'missing'.
+  •	Reshaped the dataset from wide to long format, then constructed new column names in the form <energy>_<use>.
+  •	Pivoted the data back to wide format with one row per household and 32 columns representing energy-use combinations.
+  •	Saved the result as ECV02H01_cleaned.csv.
+
+6: Clean ECV09P05 – Demographic Characteristics
+  •	Standardize IDs
+    Converted hhid and caso to integer strings to ensure consistent formatting across modules.
+  •	Basic Demographic Counts
+    o	Computed total household size.
+    o	Counted the number of male, female, child (≤17), adult (≥18), and elderly (≥60) members per household.
+  •	Household Head Attributes
+    Identified household heads based on p05a02 = jefe (a) and extracted their gender, age, marital status, ethnicity, literacy, and education level.
+  •	Education Metrics
+    o	Computed the highest education level among all members in each household.
+    o	Computed the highest education level among adult females (age ≥18) in each household.
+    o	Mapped education levels to ordinal scores to enable ranking.
+  •	Enrollment Status
+    Counted the number of children (≤17) enrolled in school based on non-missing p07b06b.
+  •	Data Consolidation
+    Merged all indicators into a single household-level dataset. Filled missing categorical fields (hh_head_education_level, female_max_education_level) with 'missing' and numeric counts with 0.
+  •	Sorting & Output
+    Sorted rows by hhid (as integer), then reconverted to string. Exported the cleaned summary as ECV09P05_cleaned.csv.
+
+7: Clean ECV11P10 – Household’s Living Activities
+  •	Standardized column names to lowercase.
+  •	Converted hhid and caso to integer strings.
+  •	Filtered to retain only the household head (caso == '1').
+  •	Remained five key variables related to the head’s primary economic activities.
+  •	Filled missing values in all columns (except hhid) with 'missing'.
+  •	Saved the cleaned data as ECV11P10_cleaned.csv.
+
+8: Clean ECV17E14 – Home Equipment
+1) Standardize Column Names and IDs
+•	Converted all column names to lowercase for consistency.
+•	Transformed hhid into an integer type for correct sorting and grouping, then preserved as a key.
+2) Clean and Normalize Ownership Quantity
+  •	p14a01 indicates whether the household owns a given item ("si"/"no").
+  •	p14a02 records the quantity owned, but is missing or invalid when ownership is "no" or unconfirmed.
+  •	defined a function to:
+    o	Assign 0 when ownership is "no" or abnormal (e.g., "9")
+    o	Use the reported quantity when ownership is "si"
+  •	All remaining NaN values were filled with 0, and the column was cast to int.
+3) Preserve Item Order and Translate to English
+  •	Used an OrderedDict to translate Spanish item names to standardized English labels (e.g., 'refrigeradora' → 'refrigerator') while preserving their original order.
+  •	Created a new column var_name in the format num_<english_name> for output clarity and future compatibility.
+4) Reshape Data to Wide Format
+  •	Pivoted the table so each household (hhid) appears in one row with item counts in separate columns.
+  •	Applied aggfunc='first' to prevent duplicates due to unexpected redundancy.
+5) Final Formatting and Sorting
+  •	Ensured hhid sorting was numeric for structural consistency.
+  •	Reordered columns to match the original item list order exactly using the OrderedDict.
+  •	Output file was saved as ECV17E14_cleaned.csv 
+
+9: Clean ECV18N15 – Enterprise Control
+  •	Converted hhid to an integer string to maintain ID format consistency across modules.
+  •	The variable p15b02 captures the number of productive enterprises controlled by the household.
+  •	Processed missing value in p15b02. after checking, those are no business by filtering the binary variable (whether has business). So no need for another column to record missing values
+  •	Saved the cleaned dataset as ECV18N15_cleaned.csv 
+
+10: Check ECV19N15 – Business details
+  During validation, I found that for 10 households, the reported number of businesses in ecv18n15 (p15b02) does not match the number of sector records in ecv19n15. For example, some households report 2 businesses but have only 1 sector recorded. This inconsistency raises a question about the reliability of sector-level business data. 
+
+11: Clean ECV21A16 – Amount of land owned
+This variable was calculated using the ECV21A16 module, which records land parcels owned by households. For each parcel, I used three fields:
+  •	p16a07a: area value
+  •	p16a07b: unit of measurement (manzana, cuerda, tarea, hectarea, caballeria)
+  •	tcuerda: size of one cuerda/tarea, measured in varas per side
+The following unit conversions were applied to compute area in square meters:
+  •	manzana = 6,987 m²
+  •	hectarea = 10,000 m²
+  •	caballeria = 78.58 × 10,000 m²
+  •	cuerda or tarea = (vara × 0.8421 m)², where vara is extracted from tcuerda
+reference: https://en.wikipedia.org/wiki/Metrication_in_Guatemala
+https://en.wikipedia.org/wiki/Caballer%C3%ADa
+For each parcel, area = value × unit_conversion. The total land area per household was then obtained by summing across parcels.
+
+12: Clean ECV28A16 – Agricultural Equipment and Facilities
+This module records agricultural tools and infrastructure at the household level. The goal was to construct a wide-format dataset summarizing the quantity of each type of equipment per household.
+1) Standardize Data Structure
+  •	Converted all column names to lowercase.
+  •	Converted hhid to an integer string for ID consistency.
+2) Normalize Quantity Values
+  •	For each record, if p16g01 (ownership status) is 'no', then p16g02 (quantity) was set to 0.
+  •	Missing values in p16g02 were also replaced with 0, and the column was cast to integer type.
+3) Maintain Consistent Item Naming and Order
+  •	Used an OrderedDict to translate item names from Spanish to English and preserve their order.
+  •	Created standardized variable names in the format num_<english_name>.
+4) Handle Repeated Items per Household
+  •	Households could report the same item multiple times. Quantities were aggregated using sum during the pivoting process.
+5) Organize Final Output
+  •	Columns were reordered to match the original item order using the OrderedDict.
+  •	Sorted all rows by numeric hhid and converted hhid back to string.
+  •	Saved the result as ECV28A16_cleaned.csv 
+
+13: Clean ECV31A16 – Livestock Activity
+This module records the types and quantities of livestock owned by each household. The goal was to create a wide-format dataset summarizing the number of animals per household, with consistent variable names and full household coverage.
+1) Standardize Structure
+  •	Converted all column names to lowercase.
+  •	Converted hhid to an integer string to maintain consistency across modules.
+2) Translate and Order Animal Types
+  •	Used an OrderedDict to translate Spanish animal names to standardized English labels (e.g., 'gallinas y pollos' → 'chickens') and to retain their original order for output.
+  •	Generated variable names in the form num_<animal> for clarity and consistency.
+3) Reshape to Wide Format
+  •	Pivoted the dataset to one row per household and one column per animal type, with counts taken from p16j03.
+  •	Aggregated quantities using sum in case of multiple entries for the same animal type within a household.
+4) Organize Final Output
+  •	Ordered columns according to the original item order from the OrderedDict.
+  •	Sorted rows by numeric hhid and converted hhid back to string.
+  •	Exported the final result as ECV31A16_cleaned.csv, encoded in UTF-8 with BOM.
+
+14: ECOM02 – Community Road Infrastructure
+  This module was used to assign information about available transportation infrastructure at the community level to each household. The merge was conducted using the combination of depto (province), mupio (municipality), and sector, which are shared between ECOM02 and the household-level consumo5 module.
+  •	In consumo5, depto values are province names (e.g., "guatemala"), while in ECOM02 they appear as numeric codes (1–22). A mapping based on the official Guatemalan department codes was applied to harmonize them.
+  Mapping website: https://www.ine.gob.gt/sistema/uploads/2016/10/28/0NiM1ouoHaN67SRO2IzXZ5RNI7FeyHpn.xls 
+  •	The transportation types in ECOM02 are stored in c02act but appear truncated. We reconstructed the full list of 8 transportation types in the correct order:
+    o	carretera pavimentada o balastrada
+    o	carretera de tierra o terracería
+    o	camino de herradura sin balastre
+    o	veredas
+    o	mar, lago o río (vía marítima)
+    o	tren (vía férrea)
+    o	avión (vía aérea)
+    o	otro, cuál?
+  •	I transformed ECOM02 from long to wide format, producing 8 binary variables (e.g., has_paved_or_gravel_road, has_dirt_road) based on c02a01 (yes/no).
+  •	These 8 variables were then merged into the household dataset by matching on depto, mupio, and sector.
+  •	For households whose community combination could not be matched in ECOM02, all 8 road infrastructure variables were set to 'missing'.
+  The final output contains one row per household with 8 additional columns indicating the availability of various transport types in their community.
+
+15: ECOM03 – infrastructure availability
+  This module was used to calculate the distance from each household’s community to key public infrastructure facilities. The process involved the following steps:
+  •	Merging Key: Each community is uniquely identified by a combination of depto_code, mupio, and sector, using the geo_info_per_household file to link household locations with community-level infrastructure data.
+  •	Facility Identification: Although facility names were not explicitly provided in ECOM03, rows for each community appear in a fixed order corresponding to 25 types of facilities (e.g., preschool, hospital, market). We mapped each row to its respective facility using its order (1 to 25).
+  •	Distance Normalization:
+    o	c02b02a gives the numeric value of the distance.
+    o	c02b02b indicates the unit of measure, which was normalized to meters using the following rules:
+  	  Kilometros = 1,000 meters
+  	  Cuadras = 100 meters
+  	  Leguas = 5,572 meters
+  	  Metros = 1 meter
+    https://es.wikipedia.org/wiki/Legua
+    https://es.wikipedia.org/wiki/Cuadra_(urbanismo)
+    o	If the unit was NS/NR, missing, or invalid, or if the distance value was missing, the distance was set to 99999999 to indicate an unknown or inaccessible value.
+  •	Facility Selection: Only the distances to the following 16 facilities were retained: facility indices 1 to 15 and index 18 (market). These were extracted, renamed with the prefix distance_<facility_name>, and pivoted into wide format at the community level.
+  •	Merging to Household Level: The wide-format community distances were merged back to the household level using the shared location identifiers. Households in communities without valid distance data were assigned a distance of 99999999.
+  The final dataset includes one row per household with 16 additional columns indicating the straight-line distance (in meters) from that household’s community to each selected infrastructure type.
+
+16. Merge all data
+  After checking no missing values, consistent number of values, I merged all 14 modules into a csv file called “guatemala_household_data.csv”
